@@ -1,0 +1,139 @@
+id,posx,posy,name,unlock
+1,140,15,-2% Enemy damage taken,no
+2,205,15,Mdef,no
+3,265,15,Crit Rate,no
+4,115,65,HP,no
+5,235,65,Mind,no
+6,295,65,Aggro +50% with special moves,no
+7,355,65,Crit Rate,no
+8,80,120,HP,no
+9,145,120,All stat +50 (except HP and BP),Unlock at level 99
+10,205,120,-2% Enemy damage taken,no
+11,265,120,Patk,no
+12,390,120,Crit Power,no
+13,115,175,-5% Enemy damage taken,no
+14,175,175,HP,no
+15,235,175,HP,no
+16,295,175,Aim,no
+17,420,175,Aggro +50% with normal moves,no
+18,540,175,Patk,no
+19,605,175,Aggro +50% with special moves,no
+20,85,225,HP,no
+21,205,225,HP,no
+22,265,225,Crit Power,no
+23,325,225,BP,no
+24,390,225,Aim,no
+25,510,225,Aim,no
+26,635,225,Aim,no
+27,110,280,HP,no
+28,235,280,-5% Enemy damage taken,no
+29,295,280,Mind,no
+30,420,280,Patk,no
+31,480,280,BP,no
+32,605,280,Patk,no
+33,140,330,Rarely heal 100 HP when taking enemy damage,Unlock at level 80
+34,205,330,HP,no
+35,325,330,Crit Rate,Unlock at level 95
+36,385,330,Evade,Unlock at level 92
+37,450,330,Middle row : Patk +10%,Unlock at level 30
+38,510,330,Aim,no
+39,570,330,Aggro +50% with normal moves,no
+40,695,330,Occasionally reduce allies' aggro greatly with special moves,Unlock at level 80
+41,755,330,HP,no
+42,820,330,Pdef,no
+43,235,385,HP,no
+44,295,385,HP,Unlock at level 98
+45,355,385,Mind,Unlock at level 89
+46,480,385,Patk,no
+47,540,385,Pdef +5% allies,Unlock at level 50
+48,600,385,Pdef,no
+49,665,385,HP,no
+50,850,385,Aggro +100% with special moves,no
+51,910,385,Pdef,no
+52,80,440,Mind,no
+53,145,440,HP,no
+54,205,440,-1% Enemy damage taken,no
+55,265,440,Pdef +5% allies,Unlock at level 50
+56,390,440,Aim,Unlock at level 83 (Knight)
+57,450,440,+200 Aggro at battle start,no
+58,570,440,Pdef,Unlock at level 99
+59,695,440,Aggro +100% with normal moves,no
+60,755,440,Pdef,no
+61,815,440,HP,no
+62,880,440,All stat +50 (except HP and BP),Unlock at level 99
+63,940,440,Pdef,no
+64,50,490,-2% Enemy damage taken,no
+65,235,490,Mind,no
+66,295,490,HP,no
+67,360,490,Small aggro boost every 10s,no
+68,480,490,Patk,Unlock at level 85 (Knight)
+69,540,490,Pdef,Unlock at level 90
+70,600,490,Pdef,Unlock at level 96
+71,665,490,Patk,no
+72,725,490,Aim,no
+73,785,490,HP,no
+74,850,490,Aggro +100% with normal moves,no
+75,970,490,Aggro +100% with special moves,no
+76,80,545,Crit Rate,no
+77,145,545,HP,no
+78,205,545,Mind,no
+79,265,545,Front row : Mdef +10%,Unlock at level 30
+80,390,545,HP,Unlock at level 81 (Knight)
+81,450,545,Aggro +1% of enemy damage taken,no
+82,575,545,Mdef,Unlock at level 93
+83,695,545,Mdef,no
+84,755,545,Pdef,no
+85,820,545,Crit Rate,no
+86,880,545,Patk,no
+87,940,545,Mdef,no
+88,235,600,HP,no
+89,295,600,Crit Power,Unlock at level 91
+90,355,600,HP,Unlock at level 87
+91,480,600,Pdef,no
+92,540,600,Front row : Pdef +10%,Unlock at level 30
+93,600,600,Pdef,no
+94,665,600,Mdef,no
+95,850,600,Aggro +2% of enemy damage taken,no
+96,910,600,Aim,no
+97,145,650,-3% enemy damage taken,no
+98,205,650,Mind,no
+99,325,650,Mind,Unlock at level 94
+100,385,650,Patk,Unlock at level 97
+101,450,650,Pdef +5% allies,Unlock at level 50
+102,510,650,Mdef,no
+103,570,650,Mdef,no
+104,695,650,Aggro +1% of enemy damage taken,no
+105,755,650,Crit Power,no
+106,815,650,Crit Power,no
+107,115,705,Crit Power,no
+108,235,705,Mind,no
+109,295,705,Pdef,no
+110,420,705,Pdef,no
+111,480,705,Aggro +1% of enemy damage taken,no
+112,600,705,Pdef,no
+113,80,755,Crit Power,no
+114,205,755,HP,no
+115,265,755,Crit Power,no
+116,325,755,Aggro +2% of enemy damage taken,no
+117,385,755,Pdef,no
+118,510,755,Pdef,no
+119,635,755,Crit Rate,no
+120,115,810,-4% enemy damage taken,no
+121,175,810,Crit Rate,no
+122,235,810,BP,no
+123,295,810,Pdef,no
+124,420,810,BP +1 occasionally,Unlock at level 80
+125,540,810,Mdef,no
+126,600,810,Aggro +1% of enemy damage taken,no
+127,80,860,Crit Power,no
+128,145,860,Pdef,no
+129,205,860,Aggro +1% of enemy damage taken,no
+130,265,860,Pdef,no
+131,385,860,Pdef,no
+132,115,915,Mdef,no
+133,235,915,All stat +50 (except HP and BP),Unlock at level 99
+134,295,915,Aggro +2% of enemy damage taken,no
+135,360,915,Pdef,no
+136,145,970,Aggro +2% of enemy damage taken,no
+137,205,970,HP,no
+138,265,970,Pdef,no
