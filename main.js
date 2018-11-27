@@ -1,5 +1,5 @@
-//TODO Add tutorial image before we select a job (It's ok thanks Antoine !)
-//TODO Complete missing comp in skilltree
+//TODO Make compatibility for iOS
+//TODO Make the mobile version easier
 
 var data = undefined;
 var showdata = undefined;
