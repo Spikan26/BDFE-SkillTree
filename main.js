@@ -132,9 +132,9 @@ $(function () {
         draw_all("paladin",paladin_data);
     });
 
-    $("#knight").click(function () {
+    $("#sniper").click(function () {
         showdata = knight_data;
-        draw_all("knight",knight_data);
+        draw_all("sniper",knight_data);
     });
 
 });
