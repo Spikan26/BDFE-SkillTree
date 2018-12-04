@@ -23,6 +23,7 @@ function init() {
 
 function JobMap(job, data) {
 
+    $("#namejob").html(job);
     $("#map").html("");
     var width = 1000;
     var height = 1000;
