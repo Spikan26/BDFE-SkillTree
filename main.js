@@ -2,9 +2,8 @@
 //TODO Make the mobile version easier
 
 var data = undefined;
-var showdata = undefined;
 var paladin_data = undefined;
-var knight_data = undefined;
+var sniper_data = undefined;
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -50,8 +49,8 @@ function JobMap(job, data) {
             return d.posy;
         })
         .attr("r", 15)
-        .attr("opacity",0.1)
-        .attr("fill", "#110000")
+        .attr("opacity",0.1)    //.attr("opacity",0.1)
+        .attr("fill", "#110000") //.attr("fill", "#110000")
 
         .on("mouseover", function(d){
 
@@ -100,7 +99,7 @@ function draw_all(job,showdata) {
 $(function () {
 
     var paladin_csv = "csv/paladin.csv"
-    var knight_csv = "csv/knight.csv"
+    var sniper_csv = "csv/sniper.csv"
 
 
     d3.csv(paladin_csv,function (d) {
@@ -111,30 +110,26 @@ $(function () {
             d.posy = +d.posy;
         });
         paladin_data = data;
-        showdata = paladin_data;
         draw_all("paladin",paladin_data);
     })
 
-    d3.csv(knight_csv,function (d) {
+    d3.csv(sniper_csv,function (d) {
         data = d;
         data.forEach(function (d) {
             d.id = +d.id;
             d.posx = +d.posx;
             d.posy = +d.posy;
         });
-        knight_data = data;
-
+        sniper_data = data;
     });
     //init();
 
     $("#paladin").click(function () {
-        showdata = paladin_data;
         draw_all("paladin",paladin_data);
     });
 
     $("#sniper").click(function () {
-        showdata = knight_data;
-        draw_all("sniper",knight_data);
+        draw_all("sniper",sniper_data);
     });
 
 });
