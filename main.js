@@ -3,6 +3,7 @@
 
 var data = undefined;
 var paladin_data = undefined;
+var priest_data = undefined;
 var sniper_data = undefined;
 
 
@@ -64,7 +65,7 @@ function JobMap(job, data) {
                     .style("opacity", .95);
 
                 if (d.unlock == "no"){
-                    tooltip.html((d.name));
+                    tooltip.html((d.id));
                 } else {
                     tooltip.html("<em style='color: #FF0000'>" + (d.unlock) + "</em><hr>" + (d.name));
                 }
@@ -99,8 +100,9 @@ function draw_all(job,showdata) {
 // This is the jQUery ready function, just to make sure everything is loaded
 $(function () {
 
-    var paladin_csv = "csv/paladin.csv"
-    var sniper_csv = "csv/sniper.csv"
+    var paladin_csv = "csv/paladin.csv";
+    var priest_csv = "csv/priest.csv";
+    var sniper_csv = "csv/sniper.csv";
 
 
     d3.csv(paladin_csv,function (d) {
@@ -111,7 +113,7 @@ $(function () {
             d.posy = +d.posy;
         });
         paladin_data = data;
-        draw_all("paladin",paladin_data);
+
     })
 
     d3.csv(sniper_csv,function (d) {
@@ -123,10 +125,25 @@ $(function () {
         });
         sniper_data = data;
     });
-    //init();
+
+    d3.csv(priest_csv,function (d) {
+        data = d;
+        data.forEach(function (d) {
+            d.id = +d.id;
+            d.posx = +d.posx;
+            d.posy = +d.posy;
+        });
+        priest_data = data;
+        draw_all("priest",priest_data);
+    });
+
 
     $("#paladin").click(function () {
         draw_all("paladin",paladin_data);
+    });
+
+    $("#priest").click(function () {
+        draw_all("priest",priest_data);
     });
 
     $("#sniper").click(function () {
