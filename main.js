@@ -65,7 +65,7 @@ function JobMap(job, data) {
                     .style("opacity", .95);
 
                 if (d.unlock == "no"){
-                    tooltip.html((d.id));
+                    tooltip.html((d.name));
                 } else {
                     tooltip.html("<em style='color: #FF0000'>" + (d.unlock) + "</em><hr>" + (d.name));
                 }
@@ -93,6 +93,14 @@ function JobMap(job, data) {
 function draw_all(job,showdata) {
 
     JobMap(job, showdata);
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+function ChangeButton(job) {
+
+    $(".activebutton").removeClass( "activebutton" );
+    $("#" + job).addClass( "activebutton" );
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -135,20 +143,34 @@ $(function () {
         });
         priest_data = data;
         draw_all("priest",priest_data);
+        ChangeButton("priest");
     });
 
 
     $("#paladin").click(function () {
+        ChangeButton("paladin");
         draw_all("paladin",paladin_data);
     });
 
+    $("#arcanist").click(function () {
+        ChangeButton("arcanist");
+    });
+
     $("#priest").click(function () {
+        ChangeButton("priest");
         draw_all("priest",priest_data);
     });
 
+    $("#assassin").click(function () {
+        ChangeButton("assassin");
+    });
+
     $("#sniper").click(function () {
+        ChangeButton("sniper");
         draw_all("sniper",sniper_data);
     });
+
+
 
 });
 

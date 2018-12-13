@@ -43,3 +43,8 @@ code {
     padding: 14px;
     text-align: center;
 }
+
+.activebutton {
+    background: goldenrod;
+    border: 1px solid #6F257F;
+}

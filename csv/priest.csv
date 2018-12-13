@@ -3,137 +3,137 @@ id,posx,posy,name,unlock
 2,120,30,WIP,Unlock at level 99
 3,90,75,Mind + 50,no
 4,145,75,WIP,no
-5,200,75,Crit Power + 450,no
+5,200,75,Critical Power + 450,no
 6,120,125,WIP,no
 7,175,125,Mind + 300,no
 8,225,125,Aim + 300,no
 9,280,125,WIP,Unlock at level 80
-10,335,125,Pdef + 60,no
-11,390,125,Pdef + 60,no
+10,335,125,Physical Defense + 60,no
+11,390,125,Physical Defense + 60,no
 12,145,170,HP + 200,no
 13,200,170,Aim + 200,no
 14,255,170,Mind + 200,no
-15,305,170,Mdef + 40,no
-16,360,170,Mdef + 40,no
+15,305,170,Magical Defense + 40,no
+16,360,170,Magical Defense + 40,no
 17,415,170,WIP,no
-18,525,170,Mdef + 200,no
-19,120,220,Crit Power + 200,no
+18,525,170,Magical Defense + 200,no
+19,120,220,Critical Power + 200,no
 20,175,220,Mind + 200,no
 21,225,220,HP + 200,no
 22,280,220,HP + 300,Unlock at level 98 (White Mage)
 23,335,220,WIP,no
-24,390,220,Mdef + 20,no
-25,495,220,Pdef + 100,no
-26,550,220,Pdef + 200,no
+24,390,220,Magical Defense + 20,no
+25,495,220,Physical Defense + 100,no
+26,550,220,Physical Defense + 200,no
 27,145,265,HP + 100,no
 28,200,265,Aim + 200,no
 29,255,265,WIP,no
-30,305,265,Pdef + 300,Unlock at level 95 (White Mage)
-31,415,265,Mdef + 20,no
+30,305,265,Physical Defense + 300,Unlock at level 95 (White Mage)
+31,415,265,Magical Defense + 20,no
 32,470,265,WIP,no
-33,525,265,Mdef + 100,no
+33,525,265,Magical Defense + 100,no
 34,575,265,Aim + 100,no
 35,175,310,WIP,no
-36,230,310,Crit Power + 200,no
+36,230,310,Critical Power + 200,no
 37,335,310,Aim + 250,Unlock at level 92 (White Mage)
 38,445,310,WIP,Unlock at level 50
-39,495,310,Pdef + 100,no
+39,495,310,Physical Defense + 100,no
 40,550,310,WIP,no
 41,660,310,WIP,no
 42,715,310,HP + 100,no
-43,770,310,Pdef + 200,no
+43,770,310,Physical Defense + 200,no
 44,255,355,Mind + 200,no
-45,360,355,Crit Power + 200,Unlock at level 89 (White Mage)
-46,470,355,Pdef + 100,no
-47,525,355,Pdef + 10% in Back Row,Unlock at level 30
-48,580,355,Pdef + 200,no
-49,630,355,Mdef + 200,no
+45,360,355,Critical Power + 200,Unlock at level 89 (White Mage)
+46,470,355,Physical Defense + 100,no
+47,525,355,Physical Defense + 10% in Back Row,Unlock at level 30
+48,580,355,Physical Defense + 200,no
+49,630,355,Magical Defense + 200,no
 50,685,355,Aim + 200,no
-51,740,355,Pdef + 200,no
+51,740,355,Physical Defense + 200,no
 52,795,355,HP + 200,no
 53,850,355,WIP,no
-54,900,355,Mdef + 50,no
-55,955,355,Mdef + 50,no
+54,900,355,Magical Defense + 50,no
+55,955,355,Magical Defense + 50,no
 56,175,405,Aim + 100,no
 57,225,405,WIP,no
 58,280,405,Mind + 10% in Middle Row,Unlock at level 30
-59,390,405,Crit Power + 100,Unlock at level 83 (White Mage)
+59,390,405,Critical Power + 100,Unlock at level 83 (White Mage)
 60,440,405,WIP,no
 61,660,405,WIP,no
 62,715,405,HP + 200,no
-63,770,405,Mdef + 200,no
-64,820,405,Pdef + 300,no
+63,770,405,Magical Defense + 200,no
+64,820,405,Physical Defense + 300,no
 65,875,405,WIP,no
 66,930,405,WIP,Unlock at level 99
 67,145,450,Mind + 200,no
-68,200,450,Crit Power + 100,no
-69,255,450,Crit Power + 100,no
+68,200,450,Critical Power + 100,no
+69,255,450,Critical Power + 100,no
 70,310,450,Mind + 100,no
 71,360,450,WIP,no
 72,470,450,HP + 100,Unlock at level 85 (White Mage)
 73,525,450,HP + 200,Unlock at level 90 (White Mage)
-74,580,450,Mdef + 250,Unlock at level 93 (White Mage)
-75,630,450,Crit Rate + 300,Unlock at level 96 (White Mage)
+74,580,450,Magical Defense + 250,Unlock at level 93 (White Mage)
+75,630,450,Critical Rate + 300,Unlock at level 96 (White Mage)
 76,685,450,Mind + 450,Unlock at level 99 (White Mage)
-77,740,450,Pdef + 200,no
-78,795,450,Mdef + 300,no
-79,850,450,Matk + 450,no
-80,120,495,Crit Power + 200,no
+77,740,450,Physical Defense + 200,no
+78,795,450,Magical Defense + 300,no
+79,850,450,Magical Attack + 450,no
+80,120,495,Critical Power + 200,no
 81,175,495,Mind + 100,no
 82,225,495,WIP,no
 83,280,495,WIP,Unlock at level 50
 84,390,495,Mind + 100,Unlock at level 81 (White Mage)
 85,440,495,WIP,no
 86,660,495,WIP,no
-87,715,495,Mdef + 40,no
+87,715,495,Magical Defense + 40,no
 88,770,495,WIP,Unlock at level 80
 89,255,545,Mind + 20,no
-90,360,545,Crit Rate + 100,Unlock at level 87 (White Mage)
-91,470,545,Matk + 100,no
+90,360,545,Critical Rate + 100,Unlock at level 87 (White Mage)
+91,470,545,Magical Attack + 100,no
 92,525,545,WIP,Unlock at level 50
-93,580,545,Mdef + 20,no
+93,580,545,Magical Defense + 20,no
 94,630,545,Mind + 20,no
 95,685,545,Mind + 40,no
 96,740,545,Mind + 60,no
 97,175,590,WIP,no
 98,225,590,Mind + 20,no
 99,335,590,Mind + 250,Unlock at level 91 (White Mage)
-100,440,590,Pdef + 5% in Middle and Back Row,Unlock at level 30
-101,495,590,Crit Rate + 100,no
+100,440,590,Physical Defense + 5% in Middle and Back Row,Unlock at level 30
+101,495,590,Critical Rate + 100,no
 102,550,590,WIP,no
 103,660,590,WIP,no
-104,715,590,Mdef + 60,no
+104,715,590,Magical Defense + 60,no
 105,145,635,Mind + 60,no
 106,200,635,Mind + 40,no
 107,255,635,WIP,no
-108,310,635,Matk + 300,Unlock at level 94 (White Mage)
-109,415,635,Matk + 200,no
+108,310,635,Magical Attack + 300,Unlock at level 94 (White Mage)
+109,415,635,Magical Attack + 200,no
 110,470,635,WIP,no
-111,525,635,Crit Rate + 100,no
-112,580,635,Matk + 100,no
+111,525,635,Critical Rate + 100,no
+112,580,635,Magical Attack + 100,no
 113,170,685,Mind + 60,no
 114,225,685,Mind + 40,no
-115,280,685,Mdef + 300,Unlock at level 97 (White Mage)
+115,280,685,Magical Defense + 300,Unlock at level 97 (White Mage)
 116,335,685,WIP,no
-117,390,685,Crit Rate + 200,no
-118,495,685,Matk + 200,no
-119,550,685,Crit Rate + 200,no
+117,390,685,Critical Rate + 200,no
+118,495,685,Magical Attack + 200,no
+119,550,685,Critical Rate + 200,no
 120,605,685,BP + 2,no
 121,200,730,WIP,Unlock at level 80
-122,255,730,Crit Rate + 200,no
-123,310,730,Matk + 200,no
+122,255,730,Critical Rate + 200,no
+123,310,730,Magical Attack + 200,no
 124,360,730,HP + 200,no
 125,415,730,WIP,no
-126,225,780,Matk + 400,no
+126,225,780,Magical Attack + 400,no
 127,280,780,HP + 200,no
-128,335,780,Crit rate,no
+128,335,780,Critical rate,no
 129,390,780,Aim,no
-130,200,825,Crit Power,no
-131,255,825,Crit Rate,no
+130,200,825,Critical Power,no
+131,255,825,Critical Rate,no
 132,310,825,BP,no
 133,360,825,BP,no
 134,225,875,WIP,no
 135,280,875,WIP,no
 136,200,920,WIP,Unlock at level 99
 137,255,920,Mind,no
-138,225,965,Mdef,no
+138,225,965,Magical Defense,no

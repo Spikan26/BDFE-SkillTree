@@ -1,23 +1,23 @@
 id,posx,posy,name,unlock
 1,140,15,WIP,no
-2,195,15,Matk,no
-3,110,70,Crit Rate,no
+2,195,15,Magical Attack,no
+3,110,70,Critical Rate,no
 4,170,70,WIP,no
-5,225,70,Mdef,no
-6,140,125,Crit Rate,no
-7,195,125,Pdef,no
+5,225,70,Magical Defense,no
+6,140,125,Critical Rate,no
+7,195,125,Physical Defense,no
 8,320,125,Poison,no
 9,385,125,Aim,no
 10,165,175,WIP,no
 11,225,175,HP,no
-12,290,175,Crit Rate,no
+12,290,175,Critical Rate,no
 13,350,175,WIP,no
-14,410,175,Crit Rate,no
-15,535,175,Crit Rate,no
+14,410,175,Critical Rate,no
+15,535,175,Critical Rate,no
 16,595,175,Poison,no
 17,140,230,WIP,no
-18,195,230,Patk,no
-19,260,230,Mdef,no
+18,195,230,Physical Attack,no
+19,260,230,Magical Defense,no
 20,320,230,Aim,no
 21,385,230,Poison,no
 22,500,230,Mind,no
@@ -25,115 +25,115 @@ id,posx,posy,name,unlock
 24,625,230,Aim,no
 25,110,280,HP,no
 26,170,280,BP,no
-27,225,280,Matk,no
-28,290,280,Pdef,no
+27,225,280,Magical Attack,no
+28,290,280,Physical Defense,no
 29,350,280,Mind,no
-30,410,280,Crit Rate,no
+30,410,280,Critical Rate,no
 31,535,280,Poison,no
 32,595,280,Mind,no
-33,140,335,Crit Rate,no
+33,140,335,Critical Rate,no
 34,195,335,WIP,no
-35,320,335,Mdef,no
+35,320,335,Magical Defense,no
 36,385,335,Aim,no
 37,440,335,WIP,no
 38,500,335,Aim,no
 39,690,335,Mind,no
 40,750,335,HP,no
-41,230,385,Matk,no
-42,290,385,Patk,no
-43,350,385,Patk,no
+41,230,385,Magical Attack,no
+42,290,385,Physical Attack,no
+43,350,385,Physical Attack,no
 44,470,385,Mind,no
 45,535,385,WIP,no
 46,595,385,Aim,no
 47,655,385,Poison,no
 48,715,385,Aim,no
 49,775,385,Poison,no
-50,75,440,Patk,no
-51,140,440,Matk,no
+50,75,440,Physical Attack,no
+51,140,440,Magical Attack,no
 52,260,440,WIP,no
 53,320,440,Mind,no
-54,380,440,Matk,no
+54,380,440,Magical Attack,no
 55,440,440,Poison,no
-56,500,440,Mdef,no
+56,500,440,Magical Defense,no
 57,565,440,Mind,no
 58,690,440,HP,no
-59,745,440,Crit Rate,no
+59,745,440,Critical Rate,no
 60,810,440,Poison,no
 61,870,440,Aim,no
 62,930,440,Aim,no
 63,45,495,WIP,no
 64,110,495,BP,no
 65,170,495,WIP,no
-66,230,495,Matk,no
-67,290,495,Patk,no
+66,230,495,Magical Attack,no
+67,290,495,Physical Attack,no
 68,350,495,WIP,no
-69,470,495,Patk,no
+69,470,495,Physical Attack,no
 70,535,495,HP,no
-71,595,495,Pdef,no
+71,595,495,Physical Defense,no
 72,655,495,Mind,no
 73,715,495,Aim,no
 74,775,495,HP,no
 75,840,495,Mind,no
 76,900,495,WIP,no
 77,965,495,Poison,no
-78,75,545,Matk,no
-79,135,545,Patk,no
+78,75,545,Magical Attack,no
+79,135,545,Physical Attack,no
 80,255,545,WIP,no
-81,380,545,Pdef,no
+81,380,545,Physical Defense,no
 82,440,545,WIP,no
 83,565,545,Aim,no
 84,625,545,HP,no
 85,690,545,Aim,no
 86,745,545,Aim,no
 87,875,545,Aim,no
-88,930,545,Patk,no
-89,230,600,Crit Rate,no
-90,290,600,Crit Rate,no
-91,350,600,Matk,no
+88,930,545,Physical Attack,no
+89,230,600,Critical Rate,no
+90,290,600,Critical Rate,no
+91,350,600,Magical Attack,no
 92,410,600,Aim,no
-93,470,600,Pdef,no
+93,470,600,Physical Defense,no
 94,530,600,WIP,no
 95,595,600,Aim,no
 96,655,600,WIP,no
 97,715,600,WIP,no
 98,775,600,WIP,no
-99,140,655,Crit Rate,no
+99,140,655,Critical Rate,no
 100,195,655,WIP,no
-101,260,655,Crit Rate,no
+101,260,655,Critical Rate,no
 102,320,655,Aim,no
-103,380,655,Pdef,no
+103,380,655,Physical Defense,no
 104,440,655,WIP,no
-105,505,655,Mdef,no
+105,505,655,Magical Defense,no
 106,690,655,Aim,no
 107,745,655,Aim,no
-108,110,705,Crit Rate,no
+108,110,705,Critical Rate,no
 109,170,705,WIP,no
-110,230,705,Crit Rate,no
-111,290,705,Crit Rate,no
-112,410,705,Mdef,no
+110,230,705,Critical Rate,no
+111,290,705,Critical Rate,no
+112,410,705,Magical Defense,no
 113,530,705,WIP,no
-114,595,705,Pdef,no
+114,595,705,Physical Defense,no
 115,135,760,WIP,no
-116,195,760,Crit Rate,no
+116,195,760,Critical Rate,no
 117,255,760,HP,no
-118,325,760,Pdef,no
+118,325,760,Physical Defense,no
 119,385,760,WIP,no
-120,500,760,Pdef,no
-121,565,760,Mdef,no
-122,630,760,Mdef,no
+120,500,760,Physical Defense,no
+121,565,760,Magical Defense,no
+122,630,760,Magical Defense,no
 123,230,810,BP,no
 124,290,810,HP,no
-125,350,810,Mdef,no
+125,350,810,Magical Defense,no
 126,410,810,HP,no
-127,535,810,Crit Rate,no
+127,535,810,Critical Rate,no
 128,595,810,WIP,no
-129,135,865,Patk,no
-130,200,865,Crit Rate,no
+129,135,865,Physical Attack,no
+130,200,865,Critical Rate,no
 131,260,865,WIP,no
 132,320,865,WIP,no
-133,380,865,Crit Rate,no
-134,110,920,Matk,no
+133,380,865,Critical Rate,no
+134,110,920,Magical Attack,no
 135,170,920,WIP,no
 136,230,920,Aim,no
 137,135,970,WIP,no
-138,200,970,Crit Rate,no
+138,200,970,Critical Rate,no

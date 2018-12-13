@@ -1,26 +1,26 @@
 id,posx,posy,name,unlock
 1,140,15,-3% Enemy damage taken,no
-2,205,15,Mdef + 400,no
-3,265,15,Crit Rate + 300,no
+2,205,15,Magical Defense + 400,no
+3,265,15,Critical Rate + 300,no
 4,115,65,HP + 50,no
 5,235,65,Mind + 300,no
 6,295,65,Aggro +50% with special moves,no
-7,355,65,Crit Rate + 200,no
+7,355,65,Critical Rate + 200,no
 8,80,120,HP + 50,no
 9,145,120,All stats +50 (excluding BP),Unlock at level 99
 10,205,120,-2% Enemy damage taken,no
-11,265,120,Patk  + 200,no
-12,390,120,Crit Power + 200,no
+11,265,120,Physical Attack  + 200,no
+12,390,120,Critical Power + 200,no
 13,115,175,-5% Enemy damage taken,no
 14,175,175,HP + 40,no
 15,235,175,HP + 300,no
 16,295,175,Aim + 200,no
 17,420,175,Aggro +50% with normal moves,no
-18,540,175,Patk + 200,no
+18,540,175,Physical Attack + 200,no
 19,605,175,Aggro +50% with special moves,no
 20,85,225,HP + 60,no
 21,205,225,HP + 40,no
-22,265,225,Crit Power + 200,no
+22,265,225,Critical Power + 200,no
 23,325,225,BP + 2,no
 24,390,225,Aim + 200,no
 25,510,225,Aim + 200,no
@@ -28,112 +28,112 @@ id,posx,posy,name,unlock
 27,110,280,HP + 60,no
 28,235,280,-5% Enemy damage taken,no
 29,295,280,Mind + 200,no
-30,420,280,Patk + 200,no
+30,420,280,Physical Attack + 200,no
 31,480,280,BP + 2,no
-32,605,280,Patk + 100,no
+32,605,280,Physical Attack + 100,no
 33,140,330,Rarely heal 100 HP when taking enemy damage,Unlock at level 80
 34,205,330,HP + 20,no
-35,325,330,Crit Rate + 250,Unlock at level 95
+35,325,330,Critical Rate + 250,Unlock at level 95
 36,385,330,Evade + 250,Unlock at level 92
-37,450,330,Middle row : Patk +10%,Unlock at level 30
+37,450,330,Middle row : Physical Attack +10%,Unlock at level 30
 38,510,330,Aim + 100,no
 39,570,330,Aggro +50% with normal moves,no
 40,695,330,Occasionally reduce allies' aggro greatly with special moves,Unlock at level 80
 41,755,330,HP + 60,no
-42,820,330,Pdef +60,no
+42,820,330,Physical Defense +60,no
 43,235,385,HP + 20,no
 44,295,385,HP + 300,Unlock at level 98
 45,355,385,Mind + 200,Unlock at level 89
-46,480,385,Patk + 100,no
-47,540,385,Pdef +5% for allies,Unlock at level 50
-48,600,385,Pdef + 20,no
+46,480,385,Physical Attack + 100,no
+47,540,385,Physical Defense +5% for allies,Unlock at level 50
+48,600,385,Physical Defense + 20,no
 49,665,385,HP + 20,no
 50,850,385,Aggro +100% with special moves,no
-51,910,385,Pdef + 50,no
+51,910,385,Physical Defense + 50,no
 52,80,440,Mind + 100,no
 53,145,440,HP + 100,no
 54,205,440,-1% Enemy damage taken,no
-55,265,440,Pdef +5% for allies,Unlock at level 50
+55,265,440,Physical Defense +5% for allies,Unlock at level 50
 56,390,440,Aim + 150,Unlock at level 83 (Knight)
 57,450,440,+200 Aggro at battle start,no
-58,570,440,Pdef + 350,Unlock at level 99
+58,570,440,Physical Defense + 350,Unlock at level 99
 59,695,440,Aggro +100% with normal moves,no
-60,755,440,Pdef + 40,no
+60,755,440,Physical Defense + 40,no
 61,815,440,HP + 40,no
 62,880,440,All stats +50 (excluding BP),Unlock at level 99
-63,940,440,Pdef + 50,no
+63,940,440,Physical Defense + 50,no
 64,50,490,-2% Enemy damage taken,no
 65,235,490,Mind + 100,no
 66,295,490,HP + 100,no
 67,360,490,Small aggro boost every 10s,no
-68,480,490,Patk + 200,Unlock at level 85 (Knight)
-69,540,490,Pdef + 200,Unlock at level 90
-70,600,490,Pdef + 250,Unlock at level 96
-71,665,490,Patk + 200,no
+68,480,490,Physical Attack + 200,Unlock at level 85 (Knight)
+69,540,490,Physical Defense + 200,Unlock at level 90
+70,600,490,Physical Defense + 250,Unlock at level 96
+71,665,490,Physical Attack + 200,no
 72,725,490,Aim + 200,no
 73,785,490,HP + 300,no
 74,850,490,Aggro +50% with normal moves,no
 75,970,490,Aggro +50% with special moves,no
-76,80,545,Crit Rate + 100,no
+76,80,545,Critical Rate + 100,no
 77,145,545,HP + 200,no
 78,205,545,Mind + 200,no
-79,265,545,Front row : Mdef +10%,Unlock at level 30
+79,265,545,Front row : Magical Defense +10%,Unlock at level 30
 80,390,545,HP + 100,Unlock at level 81 (Knight)
 81,450,545,Aggro +1% of enemy damage taken,no
-82,575,545,Mdef + 250,Unlock at level 93
-83,695,545,Mdef + 200,no
-84,755,545,Pdef + 200,no
-85,820,545,Crit Rate + 200,no
-86,880,545,Patk + 300,no
-87,940,545,Mdef + 400,no
+82,575,545,Magical Defense + 250,Unlock at level 93
+83,695,545,Magical Defense + 200,no
+84,755,545,Physical Defense + 200,no
+85,820,545,Critical Rate + 200,no
+86,880,545,Physical Attack + 300,no
+87,940,545,Magical Defense + 400,no
 88,235,600,HP + 200,no
-89,295,600,Crit Power + 250,Unlock at level 91
+89,295,600,Critical Power + 250,Unlock at level 91
 90,355,600,HP + 200,Unlock at level 87
-91,480,600,Pdef + 100,no
-92,540,600,Front row : Pdef +10%,Unlock at level 30
-93,600,600,Pdef + 200,no
-94,665,600,Mdef + 200,no
+91,480,600,Physical Defense + 100,no
+92,540,600,Front row : Physical Defense +10%,Unlock at level 30
+93,600,600,Physical Defense + 200,no
+94,665,600,Magical Defense + 200,no
 95,850,600,Aggro +2% of enemy damage taken,no
 96,910,600,Aim + 300,no
 97,145,650,-3% enemy damage taken,no
 98,205,650,Mind + 200,no
 99,325,650,Mind + 250,Unlock at level 94
-100,385,650,Patk + 300,Unlock at level 97
-101,450,650,Pdef +5% for allies,Unlock at level 50
-102,510,650,Mdef + 100,no
-103,570,650,Mdef + 200,no
+100,385,650,Physical Attack + 300,Unlock at level 97
+101,450,650,Physical Defense +5% for allies,Unlock at level 50
+102,510,650,Magical Defense + 100,no
+103,570,650,Magical Defense + 200,no
 104,695,650,Aggro +1% of enemy damage taken,no
-105,755,650,Crit Power + 100,no
-106,815,650,Crit Power + 200,no
-107,115,705,Crit Power + 100,no
+105,755,650,Critical Power + 100,no
+106,815,650,Critical Power + 200,no
+107,115,705,Critical Power + 100,no
 108,235,705,Mind + 200,no
-109,295,705,Pdef + 200,no
-110,420,705,Pdef + 20,no
+109,295,705,Physical Defense + 200,no
+110,420,705,Physical Defense + 20,no
 111,480,705,Aggro +1% of enemy damage taken,no
-112,600,705,Pdef + 200,no
-113,80,755,Crit Power + 200,no
+112,600,705,Physical Defense + 200,no
+113,80,755,Critical Power + 200,no
 114,205,755,HP + 200,no
-115,265,755,Crit Power + 200,no
+115,265,755,Critical Power + 200,no
 116,325,755,Aggro +2% of enemy damage taken,no
-117,385,755,Pdef + 20,no
-118,510,755,Pdef + 100,no
-119,635,755,Crit Rate + 100,no
+117,385,755,Physical Defense + 20,no
+118,510,755,Physical Defense + 100,no
+119,635,755,Critical Rate + 100,no
 120,115,810,-4% enemy damage taken,no
-121,175,810,Crit Rate + 200,no
+121,175,810,Critical Rate + 200,no
 122,235,810,BP + 2,no
-123,295,810,Pdef + 40,no
+123,295,810,Physical Defense + 40,no
 124,420,810,BP +1 occasionally,Unlock at level 80
-125,540,810,Mdef + 100,no
+125,540,810,Magical Defense + 100,no
 126,600,810,Aggro +1% of enemy damage taken,no
-127,80,860,Crit Power + 300,no
-128,145,860,Pdef + 300,no
+127,80,860,Critical Power + 300,no
+128,145,860,Physical Defense + 300,no
 129,205,860,Aggro +2% of enemy damage taken,no
-130,265,860,Pdef + 40,no
-131,385,860,Pdef + 60,no
-132,115,915,Mdef + 400,no
+130,265,860,Physical Defense + 40,no
+131,385,860,Physical Defense + 60,no
+132,115,915,Magical Defense + 400,no
 133,235,915,All stats +50 (excluding BP),Unlock at level 99
 134,295,915,Aggro +2% of enemy damage taken,no
-135,360,915,Pdef + 60,no
+135,360,915,Physical Defense + 60,no
 136,145,970,Aggro +3% of enemy damage taken,no
 137,205,970,HP + 50,no
-138,265,970,Pdef + 50,no
+138,265,970,Physical Defense + 50,no
