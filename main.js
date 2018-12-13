@@ -51,10 +51,35 @@ function JobMap(job, data) {
             return d.posy;
         })
         .attr("r", 15)
+
+
+        ////////////////////// Research section ////////////////////
+        /*
+
+        .attr("opacity", function (d) {
+            if (d.name.includes("WIP")){
+                return 0.3;
+            } else {
+                return 0.7;
+            }
+        })
+
+        .attr("fill", function (d) {
+            if (d.name.includes("WIP")){
+                return "#FFFFFF";
+            } else {
+                return "#110000";
+            }
+        })
+
+        */
+        //////////////////////////////////////////////////////////////
+
+
         .attr("opacity",0.1)    //.attr("opacity",0.1)
         .attr("fill", "#110000") //.attr("fill", "#110000")
 
-        .on("mouseover", function(d){
+        circle.on("mouseover", function(d){
 
             tooltip
                 .style("left", d3.event.pageX + 40 + "px")
