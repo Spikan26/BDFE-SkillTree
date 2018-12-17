@@ -1,6 +1,3 @@
-//TODO Make compatibility for iOS
-//TODO Make the mobile version easier
-
 var data = undefined;
 var paladin_data = undefined;
 var priest_data = undefined;
@@ -57,7 +54,7 @@ function JobMap(job, data) {
         /*
 
         .attr("opacity", function (d) {
-            if (d.name.includes("WIP")){
+            if (d.name.startsWith("WIP")){
                 return 0.3;
             } else {
                 return 0.7;
@@ -65,7 +62,7 @@ function JobMap(job, data) {
         })
 
         .attr("fill", function (d) {
-            if (d.name.includes("WIP")){
+            if (d.name.startsWith("WIP")){
                 return "#FFFFFF";
             } else {
                 return "#110000";
@@ -194,8 +191,6 @@ $(function () {
         ChangeButton("sniper");
         draw_all("sniper",sniper_data);
     });
-
-
 
 });
 

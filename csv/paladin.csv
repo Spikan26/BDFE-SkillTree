@@ -4,7 +4,7 @@ id,posx,posy,name,unlock
 3,265,15,Critical Rate + 300,no
 4,115,65,HP + 50,no
 5,235,65,Mind + 300,no
-6,295,65,Aggro +50% with special moves,no
+6,295,65,Aggro +50% with special attack,no
 7,355,65,Critical Rate + 200,no
 8,80,120,HP + 50,no
 9,145,120,All stats +50 (excluding BP),Unlock at level 99
@@ -15,9 +15,9 @@ id,posx,posy,name,unlock
 14,175,175,HP + 40,no
 15,235,175,HP + 300,no
 16,295,175,Aim + 200,no
-17,420,175,Aggro +50% with normal moves,no
+17,420,175,Aggro +50% with auto attack,no
 18,540,175,Physical Attack + 200,no
-19,605,175,Aggro +50% with special moves,no
+19,605,175,Aggro +50% with special attack,no
 20,85,225,HP + 60,no
 21,205,225,HP + 40,no
 22,265,225,Critical Power + 200,no
@@ -37,8 +37,8 @@ id,posx,posy,name,unlock
 36,385,330,Evade + 250,Unlock at level 92
 37,450,330,Middle row : Physical Attack +10%,Unlock at level 30
 38,510,330,Aim + 100,no
-39,570,330,Aggro +50% with normal moves,no
-40,695,330,Occasionally reduce allies' aggro greatly with special moves,Unlock at level 80
+39,570,330,Aggro +50% with auto attack,no
+40,695,330,Occasionally reduce allies' aggro greatly with special attack,Unlock at level 80
 41,755,330,HP + 60,no
 42,820,330,Physical Defense +60,no
 43,235,385,HP + 20,no
@@ -48,7 +48,7 @@ id,posx,posy,name,unlock
 47,540,385,Physical Defense +5% for allies,Unlock at level 50
 48,600,385,Physical Defense + 20,no
 49,665,385,HP + 20,no
-50,850,385,Aggro +100% with special moves,no
+50,850,385,Aggro +100% with special attack,no
 51,910,385,Physical Defense + 50,no
 52,80,440,Mind + 100,no
 53,145,440,HP + 100,no
@@ -57,7 +57,7 @@ id,posx,posy,name,unlock
 56,390,440,Aim + 150,Unlock at level 83 (Knight)
 57,450,440,+200 Aggro at battle start,no
 58,570,440,Physical Defense + 350,Unlock at level 99
-59,695,440,Aggro +100% with normal moves,no
+59,695,440,Aggro +100% with auto attack,no
 60,755,440,Physical Defense + 40,no
 61,815,440,HP + 40,no
 62,880,440,All stats +50 (excluding BP),Unlock at level 99
@@ -72,8 +72,8 @@ id,posx,posy,name,unlock
 71,665,490,Physical Attack + 200,no
 72,725,490,Aim + 200,no
 73,785,490,HP + 300,no
-74,850,490,Aggro +50% with normal moves,no
-75,970,490,Aggro +50% with special moves,no
+74,850,490,Aggro +50% with auto attack,no
+75,970,490,Aggro +50% with special attack,no
 76,80,545,Critical Rate + 100,no
 77,145,545,HP + 200,no
 78,205,545,Mind + 200,no
