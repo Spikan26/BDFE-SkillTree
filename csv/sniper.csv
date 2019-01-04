@@ -1,139 +1,139 @@
 id,posx,posy,name,unlock
-1,140,15,WIP,no
-2,195,15,Magical Attack,no
-3,110,70,Critical Rate,no
-4,170,70,WIP,no
-5,225,70,Magical Defense,no
-6,140,125,Critical Rate,no
-7,195,125,Physical Defense,no
-8,320,125,Poison,no
-9,385,125,Aim,no
-10,165,175,WIP,no
-11,225,175,HP,no
-12,290,175,Critical Rate,no
-13,350,175,WIP,no
-14,410,175,Critical Rate,no
-15,535,175,Critical Rate,no
-16,595,175,Poison,no
-17,140,230,WIP,no
-18,195,230,Physical Attack,no
-19,260,230,Magical Defense,no
-20,320,230,Aim,no
-21,385,230,Poison,no
-22,500,230,Mind,no
-23,565,230,Aim,no
-24,625,230,Aim,no
-25,110,280,HP,no
-26,170,280,BP,no
-27,225,280,Magical Attack,no
-28,290,280,Physical Defense,no
-29,350,280,Mind,no
-30,410,280,Critical Rate,no
-31,535,280,Poison,no
-32,595,280,Mind,no
-33,140,335,Critical Rate,no
-34,195,335,WIP,no
-35,320,335,Magical Defense,no
-36,385,335,Aim,no
-37,440,335,WIP,no
-38,500,335,Aim,no
-39,690,335,Mind,no
-40,750,335,HP,no
-41,230,385,Magical Attack,no
-42,290,385,Physical Attack,no
-43,350,385,Physical Attack,no
-44,470,385,Mind,no
-45,535,385,WIP,no
-46,595,385,Aim,no
-47,655,385,Poison,no
-48,715,385,Aim,no
-49,775,385,Poison,no
-50,75,440,Physical Attack,no
-51,140,440,Magical Attack,no
-52,260,440,WIP,no
-53,320,440,Mind,no
-54,380,440,Magical Attack,no
-55,440,440,Poison,no
-56,500,440,Magical Defense,no
-57,565,440,Mind,no
-58,690,440,HP,no
-59,745,440,Critical Rate,no
-60,810,440,Poison,no
-61,870,440,Aim,no
-62,930,440,Aim,no
-63,45,495,WIP,no
-64,110,495,BP,no
-65,170,495,WIP,no
-66,230,495,Magical Attack,no
-67,290,495,Physical Attack,no
-68,350,495,WIP,no
-69,470,495,Physical Attack,no
-70,535,495,HP,no
-71,595,495,Physical Defense,no
-72,655,495,Mind,no
-73,715,495,Aim,no
-74,775,495,HP,no
-75,840,495,Mind,no
-76,900,495,WIP,no
-77,965,495,Poison,no
-78,75,545,Magical Attack,no
-79,135,545,Physical Attack,no
-80,255,545,WIP,no
-81,380,545,Physical Defense,no
-82,440,545,WIP,no
-83,565,545,Aim,no
-84,625,545,HP,no
-85,690,545,Aim,no
-86,745,545,Aim,no
-87,875,545,Aim,no
-88,930,545,Physical Attack,no
-89,230,600,Critical Rate,no
-90,290,600,Critical Rate,no
-91,350,600,Magical Attack,no
-92,410,600,Aim,no
-93,470,600,Physical Defense,no
-94,530,600,WIP,no
-95,595,600,Aim,no
-96,655,600,WIP,no
-97,715,600,WIP,no
-98,775,600,WIP,no
-99,140,655,Critical Rate,no
-100,195,655,WIP,no
-101,260,655,Critical Rate,no
-102,320,655,Aim,no
-103,380,655,Physical Defense,no
-104,440,655,WIP,no
-105,505,655,Magical Defense,no
-106,690,655,Aim,no
-107,745,655,Aim,no
-108,110,705,Critical Rate,no
-109,170,705,WIP,no
-110,230,705,Critical Rate,no
-111,290,705,Critical Rate,no
-112,410,705,Magical Defense,no
-113,530,705,WIP,no
-114,595,705,Physical Defense,no
-115,135,760,WIP,no
-116,195,760,Critical Rate,no
-117,255,760,HP,no
-118,325,760,Physical Defense,no
-119,385,760,WIP,no
-120,500,760,Physical Defense,no
-121,565,760,Magical Defense,no
-122,630,760,Magical Defense,no
-123,230,810,BP,no
-124,290,810,HP,no
-125,350,810,Magical Defense,no
-126,410,810,HP,no
-127,535,810,Critical Rate,no
-128,595,810,WIP,no
-129,135,865,Physical Attack,no
-130,200,865,Critical Rate,no
-131,260,865,WIP,no
-132,320,865,WIP,no
-133,380,865,Critical Rate,no
-134,110,920,Magical Attack,no
-135,170,920,WIP,no
-136,230,920,Aim,no
-137,135,970,WIP,no
-138,200,970,Critical Rate,no
+1,140,15,WIP + 3%,no
+2,195,15,Magical Attack + 450,no
+3,110,70,Critical Rate + 50,no
+4,170,70,All stats +50 (excluding BP),Unlock at level 99
+5,225,70,Magical Defense + 300,no
+6,140,125,Critical Rate + 50,no
+7,195,125,Physical Defense + 300,no
+8,320,125,WIP Poison + 5%,no
+9,385,125,Aim + 60,no
+10,165,175,WIP + 2%,no
+11,225,175,HP + 200,no
+12,290,175,Critical Rate + 40,no
+13,350,175,WIP + 10,Unlock at level 80
+14,410,175,Critical Rate + 60,no
+15,535,175,Critical Rate + 100,no
+16,595,175,WIP Poison + 3%,no
+17,140,230,WIP + 4%,no
+18,195,230,Physical Attack + 200,no
+19,260,230,Magical Defense + 200,no
+20,320,230,Aim + 40,no
+21,385,230,WIP Poison + 5%,no
+22,500,230,Mind + 200,no
+23,565,230,Aim + 200,no
+24,625,230,Aim + 100,no
+25,110,280,HP + 200,no
+26,170,280,BP + 2,no
+27,225,280,Magical Attack + 200,no
+28,290,280,Physical Defense + 200,no
+29,350,280,Mind + 400,Unlock at level 98 (Ranger)
+30,410,280,Critical Rate + 20,no
+31,535,280,WIP Poison + 2%,no
+32,595,280,Mind + 100,no
+33,140,335,Critical Rate + 200,no
+34,195,335,WIP + 3%,no
+35,320,335,Magical Defense + 250,Unlock at level 95 (Hunter)
+36,385,335,Aim + 20,no
+37,440,335,WIP + 5%,Unlock at level 50
+38,500,335,Aim + 100,no
+39,690,335,Mind + 200,no
+40,750,335,HP + 200,no
+41,230,385,Magical Attack + 200,no
+42,290,385,Physical Attack + 200,no
+43,350,385,Physical Attack + 250,Unlock at level 92 (Hunter)
+44,470,385,Mind + 100,no
+45,535,385,Middle and Back Row : Mind + 5%,no
+46,595,385,Aim + 200,no
+47,655,385,WIP Poison + 4%,no
+48,715,385,Aim + 200,no
+49,775,385,WIP Poison + 5%,no
+50,75,440,Physical Attack + 200,no
+51,140,440,Magical Attack + 200,no
+52,260,440,WIP crit rate + 10%,no
+53,320,440,Mind + 200,Unlock at level 89 (Hunter)
+54,380,440,Magical Attack + 100,Unlock at level 83 (Hunter)
+55,440,440,WIP Poison + 1%,no
+56,500,440,Magical Defense + 100,Unlock at level 87 (Hunter)
+57,565,440,Mind + 200,no
+58,690,440,HP + 100,no
+59,745,440,Critical Rate + 200,no
+60,810,440,WIP Poison + 5%,no
+61,870,440,Aim + 50,no
+62,930,440,Aim + 50,no
+63,45,495,WIP + 2%,no
+64,110,495,BP + 2,no
+65,170,495,WIP + 1%,no
+66,230,495,Magical Attack + 100,no
+67,290,495,Physical Attack + 100,no
+68,350,495,WIP 15sec,no
+69,470,495,Physical Attack + 100,Unlock at level 81 (Hunter)
+70,535,495,HP + 200,Unlock at level 91 (Hunter)
+71,595,495,Physical Defense + 250,Unlock at level 94 (Hunter)
+72,655,495,Mind + 200,no
+73,715,495,Aim + 200,no
+74,775,495,HP + 200,no
+75,840,495,Mind + 300,no
+76,900,495,All stats +50 (excluding BP),Unlock at level 99
+77,965,495,WIP Poison + 5%,no
+78,75,545,Magical Attack + 100,no
+79,135,545,Physical Attack + 100,no
+80,255,545,WIP 5%,Unlock at level 50
+81,380,545,Physical Defense + 100,Unlock at level 85 (Hunter)
+82,440,545,WIP 15sec,no
+83,565,545,Aim + 20,no
+84,625,545,HP + 300,Unlock at level 97 (Hunter)
+85,690,545,Aim + 40,no
+86,745,545,Aim + 40,no
+87,875,545,Aim + 300,no
+88,930,545,Physical Attack + 450,no
+89,230,600,Critical Rate + 20,no
+90,290,600,Critical Rate + 20,no
+91,350,600,Magical Attack + 250,Unlock at level 93 (Hunter)
+92,410,600,Aim + 200,Unlock at level 90 (Hunter)
+93,470,600,Physical Defense + 100,no
+94,530,600,WIP 5%,Unlock at level 50
+95,595,600,Aim + 20,no
+96,655,600,WIP + 15%,no
+97,715,600,WIP - 10%,Unlock at level 80
+98,775,600,WIP + 15%,no
+99,140,655,Critical Rate + 60,no
+100,195,655,WIP + 5%,no
+101,260,655,Critical Rate + 500,Unlock at level 99 (Hunter)
+102,320,655,Aim + 300,Unlock at level 96 (Hunter)
+103,380,655,Physical Defense + 200,no
+104,440,655,Middle Row : Physical and Magical Defense +5%,no
+105,505,655,Magical Defense + 100,no
+106,690,655,Aim + 60,no
+107,745,655,Aim + 60,no
+108,110,705,Critical Rate + 60,no
+109,170,705,WIP + 20%,Unlock at level 80
+110,230,705,Critical Rate + 40,no
+111,290,705,Critical Rate + 200,no
+112,410,705,Magical Defense + 200,no
+113,530,705,WIP + 5%,no
+114,595,705,Physical Defense + 100,no
+115,135,760,WIP + 5%,no
+116,195,760,Critical Rate + 40,no
+117,255,760,HP + 200,no
+118,325,760,Physical Defense + 200,no
+119,385,760,WIP + 10%,no
+120,500,760,Physical Defense + 200,no
+121,565,760,Magical Defense + 200,no
+122,630,760,Magical Defense + 100,no
+123,230,810,BP + 2,no
+124,290,810,HP + 200,no
+125,350,810,Magical Defense + 200,no
+126,410,810,HP + 100,no
+127,535,810,Critical Rate + 100,no
+128,595,810,WIP + 5%,no
+129,135,865,Physical Attack + 400,no
+130,200,865,Critical Rate + 300,no
+131,260,865,WIP + 5%,no
+132,320,865,WIP + 10%,no
+133,380,865,Critical Rate + 200,no
+134,110,920,Magical Attack + 400,no
+135,170,920,All stats +50 (excluding BP),Unlock at level 99
+136,230,920,Aim + 50,no
+137,135,970,WIP + 5%,no
+138,200,970,Critical Rate + 50,no
