@@ -1,19 +1,25 @@
 var data = undefined;
 var paladin_data = undefined;
+var arcanist_data = undefined;
 var priest_data = undefined;
+var assassin_data = undefined;
 var sniper_data = undefined;
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 function init() {
+    var width = 1000;
+    var height = 1000;
     $("#map").html("");
-    var svg = d3.select("#map").append("svg").attr("width", 1000).attr("height", 1000);
+    var svg = d3.select("#map").append("svg").attr("width", width).attr("height", height);
 
-    svg.append("text")
-        .attr("x", 400)
-        .attr("y", 100)
-        .text("^^^   Click on a job   ^^^");
+    var g = svg.append("g");
+
+    g.append('image')
+        .attr('src:href', 'image/init.jpg')
+        .attr('width', width)
+        .attr('height', height)
 
 }
 
@@ -131,6 +137,7 @@ function ChangeButton(job) {
 $(function () {
 
     var paladin_csv = "csv/paladin.csv";
+    var arcanist_csv = "csv/paladin.csv";
     var priest_csv = "csv/priest.csv";
     var sniper_csv = "csv/sniper.csv";
 
@@ -144,7 +151,18 @@ $(function () {
         });
         paladin_data = data;
 
-    })
+    });
+
+    d3.csv(arcanist_csv,function (d) {
+        data = d;
+        data.forEach(function (d) {
+            d.id = +d.id;
+            d.posx = +d.posx;
+            d.posy = +d.posy;
+        });
+        arcanist_data = data;
+
+    });
 
     d3.csv(sniper_csv,function (d) {
         data = d;
@@ -164,8 +182,6 @@ $(function () {
             d.posy = +d.posy;
         });
         priest_data = data;
-        draw_all("priest",priest_data);
-        ChangeButton("priest");
     });
 
 
@@ -176,6 +192,7 @@ $(function () {
 
     $("#arcanist").click(function () {
         ChangeButton("arcanist");
+        draw_all("arcanist",arcanist_data);
     });
 
     $("#priest").click(function () {
@@ -191,6 +208,8 @@ $(function () {
         ChangeButton("sniper");
         draw_all("sniper",sniper_data);
     });
+
+    init();
 
 });
 
