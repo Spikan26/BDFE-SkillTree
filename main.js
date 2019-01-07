@@ -57,7 +57,7 @@ function JobMap(job, data) {
 
 
         ////////////////////// Research section ////////////////////
-        /*
+
 
         .attr("opacity", function (d) {
             if (d.name.startsWith("WIP")){
@@ -75,12 +75,12 @@ function JobMap(job, data) {
             }
         })
 
-        */
+
         //////////////////////////////////////////////////////////////
 
 
-        .attr("opacity",0.1)    //.attr("opacity",0.1)
-        .attr("fill", "#110000") //.attr("fill", "#110000")
+        /*.attr("opacity",0.1)    //.attr("opacity",0.1)
+        .attr("fill", "#110000") //.attr("fill", "#110000")*/
 
         circle.on("mouseover", function(d){
 
@@ -137,7 +137,7 @@ function ChangeButton(job) {
 $(function () {
 
     var paladin_csv = "csv/paladin.csv";
-    var arcanist_csv = "csv/paladin.csv";
+    var arcanist_csv = "csv/arcanist.csv";
     var priest_csv = "csv/priest.csv";
     var sniper_csv = "csv/sniper.csv";
 
@@ -161,7 +161,6 @@ $(function () {
             d.posy = +d.posy;
         });
         arcanist_data = data;
-
     });
 
     d3.csv(sniper_csv,function (d) {
@@ -210,6 +209,7 @@ $(function () {
     });
 
     init();
+
 
 });
 

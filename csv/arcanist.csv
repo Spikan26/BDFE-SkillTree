@@ -1,139 +1,139 @@
 id,posx,posy,name,unlock
-1,140,15,WIP,no
-2,195,15,Matk,no
-3,110,70,Crit Rate,no
-4,170,70,WIP,no
-5,225,70,Mdef,no
-6,140,125,Crit Rate,no
-7,195,125,Pdef,no
-8,320,125,Poison,no
-9,385,125,Aim,no
-10,165,175,WIP,no
-11,225,175,HP,no
-12,290,175,Crit Rate,no
-13,350,175,WIP,no
-14,410,175,Crit Rate,no
-15,535,175,Crit Rate,no
-16,595,175,Poison,no
-17,140,230,WIP,no
-18,195,230,Patk,no
-19,260,230,Mdef,no
-20,320,230,Aim,no
-21,385,230,Poison,no
-22,500,230,Mind,no
-23,565,230,Aim,no
-24,625,230,Aim,no
-25,110,280,HP,no
-26,170,280,BP,no
-27,225,280,Matk,no
-28,290,280,Pdef,no
-29,350,280,Mind,no
-30,410,280,Crit Rate,no
-31,535,280,Poison,no
-32,595,280,Mind,no
-33,140,335,Crit Rate,no
-34,195,335,WIP,no
-35,320,335,Mdef,no
-36,385,335,Aim,no
-37,440,335,WIP,no
-38,500,335,Aim,no
-39,690,335,Mind,no
-40,750,335,HP,no
-41,230,385,Matk,no
-42,290,385,Patk,no
-43,350,385,Patk,no
-44,470,385,Mind,no
-45,535,385,WIP,no
-46,595,385,Aim,no
-47,655,385,Poison,no
-48,715,385,Aim,no
-49,775,385,Poison,no
-50,75,440,Patk,no
-51,140,440,Matk,no
-52,260,440,WIP,no
-53,320,440,Mind,no
-54,380,440,Matk,no
-55,440,440,Poison,no
-56,500,440,Mdef,no
-57,565,440,Mind,no
-58,690,440,HP,no
-59,745,440,Crit Rate,no
-60,810,440,Poison,no
-61,870,440,Aim,no
-62,930,440,Aim,no
-63,45,495,WIP,no
-64,110,495,BP,no
-65,170,495,WIP,no
-66,230,495,Matk,no
-67,290,495,Patk,no
-68,350,495,WIP,no
-69,470,495,Patk,no
-70,535,495,HP,no
-71,595,495,Pdef,no
-72,655,495,Mind,no
-73,715,495,Aim,no
-74,775,495,HP,no
-75,840,495,Mind,no
-76,900,495,WIP,no
-77,965,495,Poison,no
-78,75,545,Matk,no
-79,135,545,Patk,no
-80,255,545,WIP,no
-81,380,545,Pdef,no
-82,440,545,WIP,no
-83,565,545,Aim,no
-84,625,545,HP,no
-85,690,545,Aim,no
-86,745,545,Aim,no
-87,875,545,Aim,no
-88,930,545,Patk,no
-89,230,600,Crit Rate,no
-90,290,600,Crit Rate,no
-91,350,600,Matk,no
-92,410,600,Aim,no
-93,470,600,Pdef,no
-94,530,600,WIP,no
-95,595,600,Aim,no
-96,655,600,WIP,no
-97,715,600,WIP,no
-98,775,600,WIP,no
-99,140,655,Crit Rate,no
-100,195,655,WIP,no
-101,260,655,Crit Rate,no
-102,320,655,Aim,no
-103,380,655,Pdef,no
-104,440,655,WIP,no
-105,505,655,Mdef,no
-106,690,655,Aim,no
-107,745,655,Aim,no
-108,110,705,Crit Rate,no
-109,170,705,WIP,no
-110,230,705,Crit Rate,no
-111,290,705,Crit Rate,no
-112,410,705,Mdef,no
-113,530,705,WIP,no
-114,595,705,Pdef,no
-115,135,760,WIP,no
-116,195,760,Crit Rate,no
-117,255,760,HP,no
-118,325,760,Pdef,no
-119,385,760,WIP,no
-120,500,760,Pdef,no
-121,565,760,Mdef,no
-122,630,760,Mdef,no
-123,230,810,BP,no
-124,290,810,HP,no
-125,350,810,Mdef,no
-126,410,810,HP,no
-127,535,810,Crit Rate,no
-128,595,810,WIP,no
-129,135,865,Patk,no
-130,200,865,Crit Rate,no
-131,260,865,WIP,no
-132,320,865,WIP,no
-133,380,865,Crit Rate,no
-134,110,920,Matk,no
-135,170,920,WIP,no
-136,230,920,Aim,no
-137,135,970,WIP,no
-138,200,970,Crit Rate,no
+1,840,50,All stats +50 (excluding BP),Unlock at level 99
+2,630,100,BP recovery from auto attack + 1,Unlock at level 80
+3,810,100,Magical Attack + 50,no
+4,600,150,Critical Power + 60,no
+5,660,150,Critical Power + 60,no
+6,720,150,Critical Rate + 300,no
+7,780,150,Physical Defense + 400,no
+8,840,150,Magical Attack + 50,no
+9,335,200,BP + 2,no
+10,395,200,Aim + 200,no
+11,570,200,WIP + 5%,no
+12,630,200,Critical Power + 40,no
+13,690,200,Magical Attack + 300,no
+14,750,200,WIP + 5000,no
+15,810,200,WIP + 5000,no
+16,365,250,HP + 200,no
+17,425,250,Aim + 100,no
+18,480,250,HP + 100,no
+19,600,250,WIP + 5%,no
+20,660,250,Critical Power + 40,no
+21,720,250,Critical Rate + 200,no
+22,780,250,HP + 300,no
+23,840,250,Magical Attack + 200,no
+24,900,250,Critical Rate + 200,no
+25,395,300,WIP + 2%,no
+26,455,300,WIP + 1%,no
+27,570,300,Critical Power + 20,no
+28,630,300,Critical Power + 20,no
+29,690,300,Magical Attack + 200,no
+30,750,300,Mind + 100,no
+31,810,300,Critical Power + 200,no
+32,870,300,Mind + 200,no
+33,185,350,BP + 2,no
+34,245,350,HP + 200,no
+35,305,350,WIP + 4%,no
+36,480,350,Aim + 100,no
+37,540,350,WIP 5%,Unlock at level 50
+38,660,350,Magical Attack + 400,Unlock at level 99 (Black Mage)
+39,720,350,Critical Rate + 200,no
+40,780,350,WIP + 3200,no
+41,840,350,WIP + 4000,no
+42,215,400,Aim + 200,no
+43,275,400,Mind + 200,no
+44,335,400,WIP + 3%,no
+45,395,400,HP + 200,no
+46,455,400,Middle Row : Critical Rate + 10%,Unlock at level 30
+47,515,400,HP + 100,no
+48,570,400,HP + 200,Unlock at level 90 (Black Mage)
+49,630,400,Magical Defense + 250,Unlock at level 93 (Black Mage)
+50,690,400,Critical Power + 300,Unlock at level 96 (Black Mage)
+51,750,400,Magical Attack + 200,no
+52,125,450,Magical Attack + 50,no
+53,185,450,WIP + 3%,no
+54,245,450,BP + 2,no
+55,305,450,Critical Power + 200,no
+56,365,450,Aim + 200,no
+57,425,450,Magical Attack + 300,Unlock at level 95 (Black Mage)
+58,545,450,WIP + 5%,no
+59,600,450,Aim + 100,Unlock at level 85 (Black Mage)
+60,720,450,Back Row : Magical Attack + 10%,Unlock at level 30
+61,840,450,Magical Attack + 100,no
+62,35,500,All stats +50 (excluding BP),Unlock at level 99
+63,95,500,Critical Power + 50,no
+64,155,500,Physical Defense + 400,no
+65,215,500,WIP + 2%,no
+66,275,500,Aim + 200,no
+67,335,500,Mind + 200,no
+68,395,500,Magical Defense + 300,Unlock at level 98 (Black Mage)
+69,455,500,Evade + 250,Unlock at level 92 (Black Mage)
+70,515,500,Critical Power + 100,Unlock at level 83 (Black Mage)
+71,630,500,WIP + 1200,no
+72,690,500,Magical Attack + 100,no
+73,750,500,Critical Rate + 100,no
+74,810,500,WIP + 1600,no
+75,870,500,Critical Rate + 100,no
+76,930,500,Magical Attack + 200,no
+77,185,550,Aim + 300,no
+78,245,550,Mind + 300,no
+79,305,550,Critical Power + 40,no
+80,365,550,Magical Attack + 20,no
+81,485,550,Mind + 200,Unlock at level 89 (Black Mage)
+82,540,550,WIP + 1%,no
+83,600,550,Magical Attack + 100,Unlock at level 81 (Black Mage)
+84,660,550,Magical Attack + 200,Unlock at level 87 (Black Mage)
+85,720,550,WIP 5%,Unlock at level 50
+86,840,550,WIP + 2000,no
+87,900,550,Critical Power + 100,no
+88,960,550,Critical Rate + 200,no
+89,215,600,Magical Attack + 60,no
+90,275,600,Magical Attack + 40,no
+91,335,600,WIP + 4%,no
+92,395,600,Critical Power + 20,no
+93,455,600,WIP 5%,Unlock at level 50
+94,515,600,Evade + 100,no
+95,630,600,Critical Rate + 250,Unlock at level 91 (Black Mage)
+96,750,600,Magical Attack + 20,no
+97,185,650,WIP 0,Unlock at level 80
+98,245,650,Critical Power + 60,no
+99,305,650,WIP + 4%,no
+100,480,650,Magical Defense + 100,no
+101,540,650,Middle and Back Row : Physical Defense + 5%,Unlock at level 30
+102,600,650,HP + 250,Unlock at level 94 (Black Mage)
+103,660,650,Aim + 300,Unlock at level 97 (Black Mage)
+104,720,650,Magical Attack + 20,no
+105,780,650,WIP + 4000,no
+106,840,650,WIP + 4000,no
+107,395,700,Aim + 100,no
+108,455,700,WIP + 2%,no
+109,575,700,Evade + 200,no
+110,630,700,Magical Defense + 200,no
+111,690,700,Critical Power + 200,no
+112,750,700,Magical Attack + 40,no
+113,810,700,Magical Attack + 40,no
+114,870,700,Magical Attack + 60,no
+115,425,750,Magical Defense + 100,no
+116,485,750,WIP + 2%,no
+117,600,750,WIP + 3%,no
+118,660,750,Mind + 100,no
+119,720,750,Evade + 200,no
+120,780,750,Critical Power + 300,no
+121,840,750,Magical Attack + 60,no
+122,900,750,WIP BP 15%,Unlock at level 80
+123,395,800,Evade + 200,no
+124,455,800,Critical Power + 100,no
+125,575,800,WIP + 3%,no
+126,630,800,Critical Power + 200,no
+127,690,800,HP + 300,no
+128,750,800,WIP + 2%,no
+129,810,800,Evade + 300,no
+130,425,850,Magical Defense + 200,no
+131,600,850,Mind + 200,no
+132,660,850,Evade + 200,no
+133,720,850,WIP + 2%,no
+134,780,850,Physical Defense + 400,no
+135,630,900,Magical Defense + 200,no
+136,750,900,Critical Power + 50,no
+137,810,900,Critical Power + 50,no
+138,840,950,All stats +50 (excluding BP),Unlock at level 99
