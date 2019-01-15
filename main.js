@@ -140,6 +140,7 @@ $(function () {
     var arcanist_csv = "csv/arcanist.csv";
     var priest_csv = "csv/priest.csv";
     var sniper_csv = "csv/sniper.csv";
+    var assassin_csv = "csv/assassin.csv";
 
 
     d3.csv(paladin_csv,function (d) {
@@ -171,6 +172,17 @@ $(function () {
             d.posy = +d.posy;
         });
         sniper_data = data;
+        draw_all("sniper",sniper_data);
+    });
+
+    d3.csv(assassin_csv,function (d) {
+        data = d;
+        data.forEach(function (d) {
+            d.id = +d.id;
+            d.posx = +d.posx;
+            d.posy = +d.posy;
+        });
+        assassin_data = data;
     });
 
     d3.csv(priest_csv,function (d) {
@@ -201,6 +213,7 @@ $(function () {
 
     $("#assassin").click(function () {
         ChangeButton("assassin");
+        draw_all("assassin",assassin_data);
     });
 
     $("#sniper").click(function () {
@@ -208,7 +221,7 @@ $(function () {
         draw_all("sniper",sniper_data);
     });
 
-    init();
+   //init();
 
 
 });
