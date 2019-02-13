@@ -57,7 +57,7 @@ function JobMap(job, data) {
 
 
         ////////////////////// Research section ////////////////////
-
+        /*
 
         .attr("opacity", function (d) {
             if (d.name.startsWith("WIP")){
@@ -75,12 +75,12 @@ function JobMap(job, data) {
             }
         })
 
-
+        */
         //////////////////////////////////////////////////////////////
 
 
-        /*.attr("opacity",0.1)    //.attr("opacity",0.1)
-        .attr("fill", "#110000") //.attr("fill", "#110000")*/
+        .attr("opacity",0.1)    //.attr("opacity",0.1)
+        .attr("fill", "#110000") //.attr("fill", "#110000")
 
         circle.on("mouseover", function(d){
 
