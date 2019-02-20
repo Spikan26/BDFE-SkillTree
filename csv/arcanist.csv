@@ -28,9 +28,9 @@ id,posx,posy,name,unlock
 27,570,300,Critical Power + 20,no
 28,630,300,Critical Power + 20,no
 29,690,300,Magical Attack + 200,no
-30,750,300,Mind + 100,no
+30,750,300,Spirit + 100,no
 31,810,300,Critical Power + 200,no
-32,870,300,Mind + 200,no
+32,870,300,Spirit + 200,no
 33,185,350,BP + 2,no
 34,245,350,HP + 200,no
 35,305,350,WIP + 4%,no
@@ -41,7 +41,7 @@ id,posx,posy,name,unlock
 40,780,350,WIP + 3200,no
 41,840,350,WIP + 4000,no
 42,215,400,Aim + 200,no
-43,275,400,Mind + 200,no
+43,275,400,Spirit + 200,no
 44,335,400,WIP + 3%,no
 45,395,400,HP + 200,no
 46,455,400,Middle Row : Critical Rate + 10%,Unlock at level 30
@@ -65,7 +65,7 @@ id,posx,posy,name,unlock
 64,155,500,Physical Defense + 400,no
 65,215,500,WIP + 2%,no
 66,275,500,Aim + 200,no
-67,335,500,Mind + 200,no
+67,335,500,Spirit + 200,no
 68,395,500,Magical Defense + 300,Unlock at level 98 (Black Mage)
 69,455,500,Evade + 250,Unlock at level 92 (Black Mage)
 70,515,500,Critical Power + 100,Unlock at level 83 (Black Mage)
@@ -76,10 +76,10 @@ id,posx,posy,name,unlock
 75,870,500,Critical Rate + 100,no
 76,930,500,Magical Attack + 200,no
 77,185,550,Aim + 300,no
-78,245,550,Mind + 300,no
+78,245,550,Spirit + 300,no
 79,305,550,Critical Power + 40,no
 80,365,550,Magical Attack + 20,no
-81,485,550,Mind + 200,Unlock at level 89 (Black Mage)
+81,485,550,Spirit + 200,Unlock at level 89 (Black Mage)
 82,540,550,WIP + 1%,no
 83,600,550,Magical Attack + 100,Unlock at level 81 (Black Mage)
 84,660,550,Magical Attack + 200,Unlock at level 87 (Black Mage)
