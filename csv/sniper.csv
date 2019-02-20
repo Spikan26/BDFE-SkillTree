@@ -20,30 +20,30 @@ id,posx,posy,name,unlock
 19,260,230,Magical Defense + 200,no
 20,320,230,Aim + 40,no
 21,385,230,WIP Poison + 5%,no
-22,500,230,Mind + 200,no
+22,500,230,Spirit + 200,no
 23,565,230,Aim + 200,no
 24,625,230,Aim + 100,no
 25,110,280,HP + 200,no
 26,170,280,BP + 2,no
 27,225,280,Magical Attack + 200,no
 28,290,280,Physical Defense + 200,no
-29,350,280,Mind + 400,Unlock at level 98 (Ranger)
+29,350,280,Spirit + 400,Unlock at level 98 (Ranger)
 30,410,280,Critical Rate + 20,no
 31,535,280,WIP Poison + 2%,no
-32,595,280,Mind + 100,no
+32,595,280,Spirit + 100,no
 33,140,335,Critical Rate + 200,no
 34,195,335,WIP + 3%,no
 35,320,335,Magical Defense + 250,Unlock at level 95 (Hunter)
 36,385,335,Aim + 20,no
 37,440,335,WIP + 5%,Unlock at level 50
 38,500,335,Aim + 100,no
-39,690,335,Mind + 200,no
+39,690,335,Spirit + 200,no
 40,750,335,HP + 200,no
 41,230,385,Magical Attack + 200,no
 42,290,385,Physical Attack + 200,no
 43,350,385,Physical Attack + 250,Unlock at level 92 (Hunter)
-44,470,385,Mind + 100,no
-45,535,385,Middle and Back Row : Mind + 5%,no
+44,470,385,Spirit + 100,no
+45,535,385,Middle and Back Row : Spirit + 5%,no
 46,595,385,Aim + 200,no
 47,655,385,WIP Poison + 4%,no
 48,715,385,Aim + 200,no
@@ -51,11 +51,11 @@ id,posx,posy,name,unlock
 50,75,440,Physical Attack + 200,no
 51,140,440,Magical Attack + 200,no
 52,260,440,WIP crit rate + 10%,no
-53,320,440,Mind + 200,Unlock at level 89 (Hunter)
+53,320,440,Spirit + 200,Unlock at level 89 (Hunter)
 54,380,440,Magical Attack + 100,Unlock at level 83 (Hunter)
 55,440,440,WIP Poison + 1%,no
 56,500,440,Magical Defense + 100,Unlock at level 87 (Hunter)
-57,565,440,Mind + 200,no
+57,565,440,Spirit + 200,no
 58,690,440,HP + 100,no
 59,745,440,Critical Rate + 200,no
 60,810,440,WIP Poison + 5%,no
@@ -70,10 +70,10 @@ id,posx,posy,name,unlock
 69,470,495,Physical Attack + 100,Unlock at level 81 (Hunter)
 70,535,495,HP + 200,Unlock at level 91 (Hunter)
 71,595,495,Physical Defense + 250,Unlock at level 94 (Hunter)
-72,655,495,Mind + 200,no
+72,655,495,Spirit + 200,no
 73,715,495,Aim + 200,no
 74,775,495,HP + 200,no
-75,840,495,Mind + 300,no
+75,840,495,Spirit + 300,no
 76,900,495,All stats +50 (excluding BP),Unlock at level 99
 77,965,495,WIP Poison + 5%,no
 78,75,545,Magical Attack + 100,no
