@@ -1,24 +1,24 @@
 id,posx,posy,name,unlock
-1,65,30,Mind + 50,no
+1,65,30,Spirit + 50,no
 2,120,30,All stats +50 (excluding BP),Unlock at level 99
-3,90,75,Mind + 50,no
+3,90,75,Spirit + 50,no
 4,145,75,Auto attack Heal Power + 5,no
 5,200,75,Critical Power + 450,no
 6,120,125,Special Heal Power + 15,no
-7,175,125,Mind + 300,no
+7,175,125,Spirit + 300,no
 8,225,125,Aim + 300,no
 9,280,125,Chance for +1BP with auto attack,Unlock at level 80
 10,335,125,Physical Defense + 60,no
 11,390,125,Physical Defense + 60,no
 12,145,170,HP + 200,no
 13,200,170,Aim + 200,no
-14,255,170,Mind + 200,no
+14,255,170,Spirit + 200,no
 15,305,170,Magical Defense + 40,no
 16,360,170,Magical Defense + 40,no
 17,415,170,Reduces Damage taken by -5%,no
 18,525,170,Magical Defense + 200,no
 19,120,220,Critical Power + 200,no
-20,175,220,Mind + 200,no
+20,175,220,Spirit + 200,no
 21,225,220,HP + 200,no
 22,280,220,HP + 300,Unlock at level 98 (White Mage)
 23,335,220,Critical chance from upcoming attacks reduced by -5%,no
@@ -36,13 +36,13 @@ id,posx,posy,name,unlock
 35,175,310,Special Heal Power + 10,no
 36,230,310,Critical Power + 200,no
 37,335,310,Aim + 250,Unlock at level 92 (White Mage)
-38,445,310,Mind + 5% for allies,Unlock at level 50
+38,445,310,Spirit + 5% for allies,Unlock at level 50
 39,495,310,Physical Defense + 100,no
 40,550,310,Reduces Damage taken by -2%,no
 41,660,310,Critical chance from upcoming attacks reduced by -3%,no
 42,715,310,HP + 100,no
 43,770,310,Physical Defense + 200,no
-44,255,355,Mind + 200,no
+44,255,355,Spirit + 200,no
 45,360,355,Critical Power + 200,Unlock at level 89 (White Mage)
 46,470,355,Physical Defense + 100,no
 47,525,355,Physical Defense + 10% in Back Row,Unlock at level 30
@@ -56,7 +56,7 @@ id,posx,posy,name,unlock
 55,955,355,Magical Defense + 50,no
 56,175,405,Aim + 100,no
 57,225,405,Auto attack Heal Power + 2,no
-58,280,405,Middle Row : Mind + 10%,Unlock at level 30
+58,280,405,Middle Row : Spirit + 10%,Unlock at level 30
 59,390,405,Critical Power + 100,Unlock at level 83 (White Mage)
 60,440,405,On K.O Heal allies by 20% of their Max HP,no
 61,660,405,Reduces Damage taken by -3%,no
@@ -65,54 +65,54 @@ id,posx,posy,name,unlock
 64,820,405,Physical Defense + 300,no
 65,875,405,Extend special buff time by 5%,no
 66,930,405,All stats +50 (excluding BP),Unlock at level 99
-67,145,450,Mind + 200,no
+67,145,450,Spirit + 200,no
 68,200,450,Critical Power + 100,no
 69,255,450,Critical Power + 100,no
-70,310,450,Mind + 100,no
+70,310,450,Spirit + 100,no
 71,360,450,Auto attack Heal Power + 1,no
 72,470,450,HP + 100,Unlock at level 85 (White Mage)
 73,525,450,HP + 200,Unlock at level 90 (White Mage)
 74,580,450,Magical Defense + 250,Unlock at level 93 (White Mage)
 75,630,450,Critical Rate + 300,Unlock at level 96 (White Mage)
-76,685,450,Mind + 450,Unlock at level 99 (White Mage)
+76,685,450,Spirit + 450,Unlock at level 99 (White Mage)
 77,740,450,Physical Defense + 200,no
 78,795,450,Magical Defense + 300,no
 79,850,450,Magical Attack + 450,no
 80,120,495,Critical Power + 200,no
-81,175,495,Mind + 100,no
+81,175,495,Spirit + 100,no
 82,225,495,Special Heal Power + 5,no
-83,280,495,Mind +5% for allies,Unlock at level 50
-84,390,495,Mind + 100,Unlock at level 81 (White Mage)
+83,280,495,Spirit +5% for allies,Unlock at level 50
+84,390,495,Spirit + 100,Unlock at level 81 (White Mage)
 85,440,495,Gain 3 BP at the start of battle,no
 86,660,495,Extend auto attack buff time by 15%,no
 87,715,495,Magical Defense + 40,no
 88,770,495,-1 BP cost for all specials,Unlock at level 80
-89,255,545,Mind + 20,no
+89,255,545,Spirit + 20,no
 90,360,545,Critical Rate + 100,Unlock at level 87 (White Mage)
 91,470,545,Magical Attack + 100,no
-92,525,545,Mind +5% for allies,Unlock at level 50
+92,525,545,Spirit +5% for allies,Unlock at level 50
 93,580,545,Magical Defense + 20,no
-94,630,545,Mind + 20,no
-95,685,545,Mind + 40,no
-96,740,545,Mind + 60,no
+94,630,545,Spirit + 20,no
+95,685,545,Spirit + 40,no
+96,740,545,Spirit + 60,no
 97,175,590,Auto attack Heal Power + 4,no
-98,225,590,Mind + 20,no
-99,335,590,Mind + 250,Unlock at level 91 (White Mage)
+98,225,590,Spirit + 20,no
+99,335,590,Spirit + 250,Unlock at level 91 (White Mage)
 100,440,590,Middle and Back Row : Physical Defense + 5%,Unlock at level 30
 101,495,590,Critical Rate + 100,no
 102,550,590,Extend auto attack buff time by 5%,no
 103,660,590,Extend special buff time by 15%,no
 104,715,590,Magical Defense + 60,no
-105,145,635,Mind + 60,no
-106,200,635,Mind + 40,no
+105,145,635,Spirit + 60,no
+106,200,635,Spirit + 40,no
 107,255,635,Special Heal Power + 1,no
 108,310,635,Magical Attack + 300,Unlock at level 94 (White Mage)
 109,415,635,Magical Attack + 200,no
 110,470,635,Extend special buff time by 5%,no
 111,525,635,Critical Rate + 100,no
 112,580,635,Magical Attack + 100,no
-113,170,685,Mind + 60,no
-114,225,685,Mind + 40,no
+113,170,685,Spirit + 60,no
+114,225,685,Spirit + 40,no
 115,280,685,Magical Defense + 300,Unlock at level 97 (White Mage)
 116,335,685,Extend special buff time by 10%,no
 117,390,685,Critical Rate + 200,no
@@ -135,5 +135,5 @@ id,posx,posy,name,unlock
 134,225,875,Critical chance from upcoming attacks reduced by -3%,no
 135,280,875,Critical chance from upcoming attacks reduced by -2%,no
 136,200,920,All stats +50 (excluding BP),Unlock at level 99
-137,255,920,Mind + 50,no
+137,255,920,Spirit + 50,no
 138,225,965,Magical Defense + 50,no
