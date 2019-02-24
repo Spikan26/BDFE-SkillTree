@@ -41,7 +41,7 @@ id,posx,posy,name,unlock
 40,550,310,Reduces Damage taken by -2%,no
 41,660,310,Critical chance from upcoming attacks reduced by -3%,no
 42,715,310,HP + 100,no
-43,770,310,Physical Defense + 200,no
+43,770,310,Magical Defense + 200,no
 44,255,355,Spirit + 200,no
 45,360,355,Critical Power + 200,Unlock at level 89 (White Mage)
 46,470,355,Physical Defense + 100,no
