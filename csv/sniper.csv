@@ -1,25 +1,25 @@
 id,posx,posy,name,unlock
-1,140,15,WIP + 3%,no
+1,140,15,Chance of giving Poison with Auto Attack + 3%,no
 2,195,15,Magical Attack + 450,no
 3,110,70,Critical Rate + 50,no
 4,170,70,All stats +50 (excluding BP),Unlock at level 99
 5,225,70,Magical Defense + 300,no
 6,140,125,Critical Rate + 50,no
 7,195,125,Physical Defense + 300,no
-8,320,125,WIP Poison + 5%,no
+8,320,125,Poison Power + 5%,no
 9,385,125,Aim + 60,no
-10,165,175,WIP + 2%,no
+10,165,175,Chance of giving Poison with Auto Attack + 2%,no
 11,225,175,HP + 200,no
 12,290,175,Critical Rate + 40,no
 13,350,175,WIP + 10,Unlock at level 80
 14,410,175,Critical Rate + 60,no
 15,535,175,Critical Rate + 100,no
-16,595,175,WIP Poison + 3%,no
-17,140,230,WIP + 4%,no
+16,595,175,Poison Power + 3%,no
+17,140,230,Chance of giving Poison with Auto Attack + 4%,no
 18,195,230,Physical Attack + 200,no
 19,260,230,Magical Defense + 200,no
 20,320,230,Aim + 40,no
-21,385,230,WIP Poison + 5%,no
+21,385,230,Poison Power + 5%,no
 22,500,230,Spirit + 200,no
 23,565,230,Aim + 200,no
 24,625,230,Aim + 100,no
@@ -29,10 +29,10 @@ id,posx,posy,name,unlock
 28,290,280,Physical Defense + 200,no
 29,350,280,Spirit + 400,Unlock at level 98 (Ranger)
 30,410,280,Critical Rate + 20,no
-31,535,280,WIP Poison + 2%,no
+31,535,280,Poison Power + 2%,no
 32,595,280,Spirit + 100,no
 33,140,335,Critical Rate + 200,no
-34,195,335,WIP + 3%,no
+34,195,335,Chance of giving Poison with Auto Attack + 3%,no
 35,320,335,Magical Defense + 250,Unlock at level 95 (Hunter)
 36,385,335,Aim + 20,no
 37,440,335,WIP + 5%,Unlock at level 50
@@ -45,28 +45,28 @@ id,posx,posy,name,unlock
 44,470,385,Spirit + 100,no
 45,535,385,Middle and Back Row : Spirit + 5%,no
 46,595,385,Aim + 200,no
-47,655,385,WIP Poison + 4%,no
+47,655,385,Poison Power + 4%,no
 48,715,385,Aim + 200,no
-49,775,385,WIP Poison + 5%,no
+49,775,385,Poison Power + 5%,no
 50,75,440,Physical Attack + 200,no
 51,140,440,Magical Attack + 200,no
-52,260,440,WIP crit rate + 10%,no
+52,260,440,Back Row : crit rate + 10%,no
 53,320,440,Spirit + 200,Unlock at level 89 (Hunter)
 54,380,440,Magical Attack + 100,Unlock at level 83 (Hunter)
-55,440,440,WIP Poison + 1%,no
+55,440,440,Poison Power + 1%,no
 56,500,440,Magical Defense + 100,Unlock at level 87 (Hunter)
 57,565,440,Spirit + 200,no
 58,690,440,HP + 100,no
 59,745,440,Critical Rate + 200,no
-60,810,440,WIP Poison + 5%,no
+60,810,440,Poison Power + 5%,no
 61,870,440,Aim + 50,no
 62,930,440,Aim + 50,no
-63,45,495,WIP + 2%,no
+63,45,495,Chance of giving Poison with Auto Attack + 2%,no
 64,110,495,BP + 2,no
-65,170,495,WIP + 1%,no
+65,170,495,Chance of giving Poison with Auto Attack + 1%,no
 66,230,495,Magical Attack + 100,no
 67,290,495,Physical Attack + 100,no
-68,350,495,WIP 15sec,no
+68,350,495,Auto Attack occasionally gives poison (15sec),no
 69,470,495,Physical Attack + 100,Unlock at level 81 (Hunter)
 70,535,495,HP + 200,Unlock at level 91 (Hunter)
 71,595,495,Physical Defense + 250,Unlock at level 94 (Hunter)
@@ -75,12 +75,12 @@ id,posx,posy,name,unlock
 74,775,495,HP + 200,no
 75,840,495,Spirit + 300,no
 76,900,495,All stats +50 (excluding BP),Unlock at level 99
-77,965,495,WIP Poison + 5%,no
+77,965,495,Poison Power + 5%,no
 78,75,545,Magical Attack + 100,no
 79,135,545,Physical Attack + 100,no
 80,255,545,WIP 5%,Unlock at level 50
 81,380,545,Physical Defense + 100,Unlock at level 85 (Hunter)
-82,440,545,WIP 15sec,no
+82,440,545,Chance of giving Poison when receiving damage,no
 83,565,545,Aim + 20,no
 84,625,545,HP + 300,Unlock at level 97 (Hunter)
 85,690,545,Aim + 40,no
@@ -94,11 +94,11 @@ id,posx,posy,name,unlock
 93,470,600,Physical Defense + 100,no
 94,530,600,WIP 5%,Unlock at level 50
 95,595,600,Aim + 20,no
-96,655,600,WIP + 15%,no
+96,655,600,Debuff rate and duration with Auto Attack + 15%,no
 97,715,600,WIP - 10%,Unlock at level 80
-98,775,600,WIP + 15%,no
+98,775,600,Debuff rate and duration with Special Attack + 15%,no
 99,140,655,Critical Rate + 60,no
-100,195,655,WIP + 5%,no
+100,195,655,Chance of giving Poison with Auto Attack + 5%,no
 101,260,655,Critical Rate + 500,Unlock at level 99 (Hunter)
 102,320,655,Aim + 300,Unlock at level 96 (Hunter)
 103,380,655,Physical Defense + 200,no
@@ -111,13 +111,13 @@ id,posx,posy,name,unlock
 110,230,705,Critical Rate + 40,no
 111,290,705,Critical Rate + 200,no
 112,410,705,Magical Defense + 200,no
-113,530,705,WIP + 5%,no
+113,530,705,Debuff rate and duration with Auto Attack + 5%,no
 114,595,705,Physical Defense + 100,no
-115,135,760,WIP + 5%,no
+115,135,760,Chance of giving Poison with Auto Attack + 5%,no
 116,195,760,Critical Rate + 40,no
 117,255,760,HP + 200,no
 118,325,760,Physical Defense + 200,no
-119,385,760,WIP + 10%,no
+119,385,760,Debuff rate and duration with Auto Attack + 10%,no
 120,500,760,Physical Defense + 200,no
 121,565,760,Magical Defense + 200,no
 122,630,760,Magical Defense + 100,no
@@ -126,14 +126,14 @@ id,posx,posy,name,unlock
 125,350,810,Magical Defense + 200,no
 126,410,810,HP + 100,no
 127,535,810,Critical Rate + 100,no
-128,595,810,WIP + 5%,no
+128,595,810,Debuff rate and duration with Special Attack + 5%,no
 129,135,865,Physical Attack + 400,no
 130,200,865,Critical Rate + 300,no
-131,260,865,WIP + 5%,no
-132,320,865,WIP + 10%,no
+131,260,865,Debuff rate and duration with Auto Attack + 5%,no
+132,320,865,Debuff rate and duration with Special Attack + 10%,no
 133,380,865,Critical Rate + 200,no
 134,110,920,Magical Attack + 400,no
 135,170,920,All stats +50 (excluding BP),Unlock at level 99
 136,230,920,Aim + 50,no
-137,135,970,WIP + 5%,no
+137,135,970,Debuff rate and duration with Special Attack + 5%,no
 138,200,970,Critical Rate + 50,no
