@@ -56,7 +56,7 @@ id,posx,posy,name,unlock
 55,305,450,Critical Power + 200,no
 56,365,450,Aim + 200,no
 57,425,450,Magical Attack + 300,Unlock at level 95 (Black Mage)
-58,545,450,WIP + 5%,no
+58,545,450,Chance for HP drain 5% of damage dealt by Special Attack,no
 59,600,450,Aim + 100,Unlock at level 85 (Black Mage)
 60,720,450,Back Row : Magical Attack + 10%,Unlock at level 30
 61,840,450,Magical Attack + 100,no
@@ -80,7 +80,7 @@ id,posx,posy,name,unlock
 79,305,550,Critical Power + 40,no
 80,365,550,Magical Attack + 20,no
 81,485,550,Spirit + 200,Unlock at level 89 (Black Mage)
-82,540,550,WIP + 1%,no
+82,540,550,Elemental affinity power + 1%,no
 83,600,550,Magical Attack + 100,Unlock at level 81 (Black Mage)
 84,660,550,Magical Attack + 200,Unlock at level 87 (Black Mage)
 85,720,550,Magical Defense + 5% for allies,Unlock at level 50
@@ -89,15 +89,15 @@ id,posx,posy,name,unlock
 88,960,550,Critical Rate + 200,no
 89,215,600,Magical Attack + 60,no
 90,275,600,Magical Attack + 40,no
-91,335,600,WIP + 4%,no
+91,335,600,Elemental affinity power + 4%,no
 92,395,600,Critical Power + 20,no
 93,455,600,Magical Defense + 5% for allies,Unlock at level 50
 94,515,600,Evade + 100,no
 95,630,600,Critical Rate + 250,Unlock at level 91 (Black Mage)
 96,750,600,Magical Attack + 20,no
-97,185,650,WIP 0,Unlock at level 80
+97,185,650,Chance to reset cooldown to 0 for the same Special Attack on use,Unlock at level 80
 98,245,650,Critical Power + 60,no
-99,305,650,WIP + 4%,no
+99,305,650,Elemental affinity power + 4%,no
 100,480,650,Magical Defense + 100,no
 101,540,650,Middle and Back Row : Physical Defense + 5%,Unlock at level 30
 102,600,650,HP + 250,Unlock at level 94 (Black Mage)
@@ -106,7 +106,7 @@ id,posx,posy,name,unlock
 105,780,650,Limit Break + 4000,no
 106,840,650,Limit Break + 4000,no
 107,395,700,Aim + 100,no
-108,455,700,WIP + 2%,no
+108,455,700,Elemental affinity power + 2%,no
 109,575,700,Evade + 200,no
 110,630,700,Magical Defense + 200,no
 111,690,700,Critical Power + 200,no
@@ -114,24 +114,24 @@ id,posx,posy,name,unlock
 113,810,700,Magical Attack + 40,no
 114,870,700,Magical Attack + 60,no
 115,425,750,Magical Defense + 100,no
-116,485,750,WIP + 2%,no
-117,600,750,WIP + 3%,no
+116,485,750,Elemental affinity power + 2%,no
+117,600,750,Elemental affinity power + 3%,no
 118,660,750,Mind + 100,no
 119,720,750,Evade + 200,no
 120,780,750,Critical Power + 300,no
 121,840,750,Magical Attack + 60,no
-122,900,750,WIP BP 15%,Unlock at level 80
+122,900,750,Rarely recover -15% of BP with Special Attack,Unlock at level 80
 123,395,800,Evade + 200,no
 124,455,800,Critical Power + 100,no
-125,575,800,WIP + 3%,no
+125,575,800,Elemental affinity power + 3%,no
 126,630,800,Critical Power + 200,no
 127,690,800,HP + 300,no
-128,750,800,WIP + 2%,no
+128,750,800,Elemental affinity power + 2%,no
 129,810,800,Evade + 300,no
 130,425,850,Magical Defense + 200,no
 131,600,850,Mind + 200,no
 132,660,850,Evade + 200,no
-133,720,850,WIP + 2%,no
+133,720,850,Elemental affinity power + 2%,no
 134,780,850,Physical Defense + 400,no
 135,630,900,Magical Defense + 200,no
 136,750,900,Critical Power + 50,no
