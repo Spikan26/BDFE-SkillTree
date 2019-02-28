@@ -93,9 +93,9 @@ function JobMap(job, data) {
                     .style("opacity", .95);
 
                 if (d.unlock == "no"){
-                    tooltip.html((d.name));
+                    tooltip.html((d.id));
                 } else {
-                    tooltip.html("<em style='color: #FF0000'>" + (d.unlock) + "</em><hr>" + (d.name));
+                    tooltip.html("<em style='color: #FF0000'>" + (d.unlock) + "</em><hr>" + (d.id));
                 }
 
 
