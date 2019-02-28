@@ -4,8 +4,8 @@ id,posx,posy,name,unlock
 3,865,20,All stats +50 (excluding BP),Unlock at level 99
 4,590,75,Evade + 60,no
 5,650,75,Evade + 60,no
-6,710,75,WIP 0,Unlock at level 80
-7,775,75,WIP + 10,no
+6,710,75,Rare chance of reducing Auto Attack Reload to 0 when dodging an attack,Unlock at level 80
+7,775,75,Pursue skill power + 10,no
 8,315,130,Aim + 200,no
 9,375,130,Evade + 200,no
 10,435,130,HP + 100,no
@@ -17,7 +17,7 @@ id,posx,posy,name,unlock
 16,530,185,Evasion Rate + 4%,no
 17,590,185,Evade + 40,no
 18,650,185,Evade + 40,no
-19,710,185,WIP + 10,no
+19,710,185,Pursue skill power + 10,no
 20,775,185,Critical Power + 200,no
 21,835,185,Physical Attack + 200,no
 22,895,185,Critical Power + 200,no
@@ -28,15 +28,15 @@ id,posx,posy,name,unlock
 27,620,245,Physical Attack + 200,no
 28,680,245,Critical Power + 200,no
 29,745,245,HP + 300,no
-30,805,245,WIP + 5%,no
+30,805,245,Pursue skill power + 5%,no
 31,165,300,Aim + 200,no
 32,285,300,HP + 200,no
 33,405,300,Evade + 200,no
 34,465,300,Aim + 100,no
-35,530,300,WIP 5%,Unlock at level 50
+35,530,300,Critical Power +5%  for allies,Unlock at level 50
 36,590,300,Evade + 20,no
 37,650,300,Physical Attack + 300,Unlock at level 94 (Thief)
-38,710,300,WIP + 5,no
+38,710,300,Pursue skill power + 5,no
 39,775,300,Critical Rate + 100,no
 40,835,300,HP + 200,no
 41,190,355,Evade + 200,no
@@ -69,14 +69,14 @@ id,posx,posy,name,unlock
 68,375,465,Aim + 300,Unlock at level 95 (Thief)
 69,440,465,Magical Defense + 250,Unlock at level 92 (Thief)
 70,500,465,Critical Power + 100,Unlock at level 83 (Thief)
-71,620,465,WIP 10,no
+71,620,465,Unlock Pursue skill: Low chance for one extra damage with auto attack. Initial power: 10,no
 72,680,465,Physical Attack + 100,no
 73,745,465,Critical Power + 100,no
 74,805,465,Physical Attack + 100,no
-75,865,465,WIP + 2,no
+75,865,465,Pursue skill power + 2,no
 76,925,465,Physical Attack + 200,no
 77,100,520,Physical Attack + 50,no
-78,160,520,WIP - 5,Unlock at level 80
+78,160,520,Chance to reduce Special Cooldown by - 5sec when damaged,Unlock at level 80
 79,225,520,Evade + 300,no
 80,285,520,Physical Attack + 40,no
 81,345,520,Evade + 200,no
@@ -85,21 +85,21 @@ id,posx,posy,name,unlock
 84,530,520,Special Attack Reload - 1 second,no
 85,590,520,Evade + 100,Unlock at level 85 (Thief)
 86,650,520,Critical Rate + 200,Unlock at level 90 (Thief)
-87,710,520,WIP 5%,Unlock at level 50
-88,775,520,WIP + 2,no
+87,710,520,Critical Power +5%  for allies,Unlock at level 50
+88,775,520,Pursue skill power + 2,no
 89,895,520,HP + 100,no
 90,195,575,Physical Attack + 60,no
 91,255,575,Auto Attack Reload - 0.1 second,no
 92,315,575,Evade + 40,no
 93,375,575,Physical Attack + 20,no
-94,435,575,WIP + 5%,Unlock at level 50
+94,435,575,Critical Power +5%  for allies,Unlock at level 50
 95,500,575,Physical Defense + 100,no
 96,620,575,Evade + 250,Unlock at level 93 (Thief)
 97,680,575,Physical Attack + 20,no
 98,740,575,Physical Attack + 20,no
-99,805,575,WIP + 8,no
+99,805,575,Pursue skill power + 8,no
 100,225,630,Evade + 60,no
-101,345,630,Special Attack Reload - 4 second,no
+101,345,630,Special Attack Cooldown - 4 second,no
 102,405,630,Auto Attack Reload - 0.1 second,no
 103,470,630,Magical Defense + 100,no
 104,530,630,Front and Middle Row : Magical Defense + 5%,Unlock at level 30
@@ -113,7 +113,7 @@ id,posx,posy,name,unlock
 112,620,685,Special Attack Reload - 3 second,no
 113,680,685,Magical Defense + 200,no
 114,740,685,Physical Attack + 40,no
-115,805,685,WIP + 8,no
+115,805,685,Pursue skill power + 8,no
 116,865,685,Physical Attack + 60,no
 117,345,740,Magical Defense + 200,no
 118,405,740,Special Attack Reload - 2 second,no
@@ -128,7 +128,7 @@ id,posx,posy,name,unlock
 127,620,795,Auto Attack Reload - 0.1 second,no
 128,680,795,Physical Defense + 200,no
 129,740,795,Magical Defense + 300,no
-130,805,795,WIP + 10,Unlock at level 80
+130,805,795,Pursue skill power + 10,Unlock at level 80
 131,405,850,BP + 2,no
 132,650,850,Magical Defense + 200,no
 133,710,850,Aim + 400,no
