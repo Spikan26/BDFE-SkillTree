@@ -11,7 +11,7 @@ id,posx,posy,name,unlock
 10,165,175,Chance of giving Poison with Auto Attack + 2%,no
 11,225,175,HP + 200,no
 12,290,175,Critical Rate + 40,no
-13,350,175,WIP + 10,Unlock at level 80
+13,350,175,Debuff Resistance + 10,Unlock at level 80
 14,410,175,Critical Rate + 60,no
 15,535,175,Critical Rate + 100,no
 16,595,175,Poison Power + 3%,no
@@ -35,7 +35,7 @@ id,posx,posy,name,unlock
 34,195,335,Chance of giving Poison with Auto Attack + 3%,no
 35,320,335,Magical Defense + 250,Unlock at level 95 (Hunter)
 36,385,335,Aim + 20,no
-37,440,335,WIP + 5%,Unlock at level 50
+37,440,335,Critical Rate + 5% for allies,Unlock at level 50
 38,500,335,Aim + 100,no
 39,690,335,Spirit + 200,no
 40,750,335,HP + 200,no
@@ -78,7 +78,7 @@ id,posx,posy,name,unlock
 77,965,495,Poison Power + 5%,no
 78,75,545,Magical Attack + 100,no
 79,135,545,Physical Attack + 100,no
-80,255,545,WIP 5%,Unlock at level 50
+80,255,545,Critical Rate + 5% for allies 5%,Unlock at level 50
 81,380,545,Physical Defense + 100,Unlock at level 85 (Hunter)
 82,440,545,Chance of giving Poison when receiving damage,no
 83,565,545,Aim + 20,no
@@ -92,10 +92,10 @@ id,posx,posy,name,unlock
 91,350,600,Magical Attack + 250,Unlock at level 93 (Hunter)
 92,410,600,Aim + 200,Unlock at level 90 (Hunter)
 93,470,600,Physical Defense + 100,no
-94,530,600,WIP 5%,Unlock at level 50
+94,530,600,Critical Rate + 5% for allies 5%,Unlock at level 50
 95,595,600,Aim + 20,no
 96,655,600,Debuff rate and duration with Auto Attack + 15%,no
-97,715,600,WIP - 10%,Unlock at level 80
+97,715,600,Damage receive - 10% when the target is debuffed,Unlock at level 80
 98,775,600,Debuff rate and duration with Special Attack + 15%,no
 99,140,655,Critical Rate + 60,no
 100,195,655,Chance of giving Poison with Auto Attack + 5%,no
@@ -107,7 +107,7 @@ id,posx,posy,name,unlock
 106,690,655,Aim + 60,no
 107,745,655,Aim + 60,no
 108,110,705,Critical Rate + 60,no
-109,170,705,WIP + 20%,Unlock at level 80
+109,170,705,Damage + 20% when the target is debuffed,Unlock at level 80
 110,230,705,Critical Rate + 40,no
 111,290,705,Critical Rate + 200,no
 112,410,705,Magical Defense + 200,no
