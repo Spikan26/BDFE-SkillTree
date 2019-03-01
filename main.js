@@ -9,8 +9,8 @@ var sniper_data = undefined;
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 function init() {
-    var width = 1000;
-    var height = 1000;
+    var width = "1000px";
+    var height = "1000px";
     $("#map").html("");
     var svg = d3.select("#map").append("svg").attr("width", width).attr("height", height);
 
@@ -29,8 +29,8 @@ function JobMap(job, data) {
 
     $("#namejob").html(job);
     $("#map").html("");
-    var width = 1000;
-    var height = 1000;
+    var width = "1000px";
+    var height = "1000px";
 
     var tooltip = d3.select("body").append("div").attr("class", "toolTip");
 
