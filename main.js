@@ -34,9 +34,6 @@ function JobMap(job, data) {
 
     var tooltip = d3.select("body").append("div").attr("class", "toolTip");
 
-    console.log("DATAAAAAAA");
-    console.log(data);
-
 
     // Here we create a SVG with a group (to implement margins)
     var svg = d3.select("#map").append("svg").attr("width", width).attr("height", height);
