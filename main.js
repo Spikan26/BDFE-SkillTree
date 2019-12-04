@@ -108,7 +108,7 @@ function JobMap(job, data) {
 
 
     var myimage = g.append('image')
-        .attr('src:href', 'image/' + job + '.webp')
+        .attr('src:href', 'image/' + job + '.jpg')
         .attr('width', width)
         .attr('height', height)
 }
@@ -222,4 +222,3 @@ $(function () {
 
 
 });
-
